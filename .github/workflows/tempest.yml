@@ -16,7 +16,7 @@ jobs:
       - name: POST to paste.lol
         run: |
           curl --location --request POST --header "Authorization: Bearer ${{ secrets.OMG_TOKEN }}" \
-            "https://api.omg.lol/address/${{ secrets.OMG_ADDR }}/pastebin/' \
+            "https://api.omg.lol/address/${{ secrets.OMG_ADDR }}/pastebin/" \
             --data '{"title": "tempest.json", "content": "@tempest.json"}'
 
         
