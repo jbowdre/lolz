@@ -13,6 +13,6 @@ jobs:
           endpoint: https://swd.weatherflow.com/swd/rest/better_forecast?station_id=${{ secrets.TEMPEST_STATION }}&token=${{ secrets.TEMPEST_TOKEN }}&units_temp=f&units_wind=mph&units_pressure=inhg&units_precip-in&units_distance=mi
       - name: Trim JSON
         run: | 
-          echo "conditions=$(jq '.current_conditions' \"$fetchApiData\")" >> "$GITHUB_ENV"
+          echo "conditions=$(jq '.current_conditions' fetch-api-data-action.json)" >> "$GITHUB_ENV"
 
         
