@@ -12,6 +12,8 @@ jobs:
         with:
           endpoint: https://swd.weatherflow.com/swd/rest/better_forecast?station_id=${{ secrets.TEMPEST_STATION }}&token=${{ secrets.TEMPEST_TOKEN }}&units_temp=f&units_wind=mph&units_pressure=inhg&units_precip-in&units_distance=mi
       - name: Trim JSON
-        run: jq '.current_conditions' fetch-api-data-action/data.json > tempest.json
+        run: |
+          jq '.current_conditions' fetch-api-data-action/data.json > tempest.json
+          cat tempest.json
 
         
