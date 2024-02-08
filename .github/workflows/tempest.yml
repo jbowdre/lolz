@@ -14,6 +14,6 @@ jobs:
         uses: cloudposse/github-action-jq@main
         with:
           input: fetch-api-data-action
-          script: .current_conditions
+          script: '.current_conditions'
 
         
