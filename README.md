@@ -2,7 +2,7 @@
 
 This repo holds miscellaneous stuff I cobbled together for use with my [omg.lol profile](https://jbowdre.lol) and [associated services](https://home.omg.lol/referred-by/jbowdre).
 
-### Tempest
+### (Near) Realtime Weather on profile.lol
 I recently saw [Kris's omg.lol profile page](https://kris.omg.lol) with integrated live local weather conditions, and I thought that was exceptionally neat. I immediately wanted to do the same with data from my [Weatherflow Tempest weather station](https://shop.weatherflow.com/products/tempest), but wasn't sure how I could do that without putting my API token in the browser. So I promptly abandoned the idea and moved on to other things.
 
 I later realized that I could use another system to grab data from the authenticated API, and post that somewhere world-readable for the profile page to retrieve it.
