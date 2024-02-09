@@ -5,20 +5,37 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous">
     <title>Weather Test</title>
     <script>
-      // based on https://kris.omg.lol
+          // get ready to calculate relative time
+          var units = {
+            year  : 24 * 60 * 60 * 1000 * 365,
+            month : 24 * 60 * 60 * 1000 * 365/12,
+            day   : 24 * 60 * 60 * 1000,
+            hour  : 60 * 60 * 1000,
+            minute: 60 * 1000,
+            second: 1000
+          }
+          var rtf = new Intl.RelativeTimeFormat('en', { numeric: 'auto' })
+          var getRelativeTime = (d1, d2 = new Date()) => {
+            var elapsed = d1 - d2
+            for (var u in units)
+              if (Math.abs(elapsed) > units[u] || u == 'second')
+                return rtf.format(Math.round(elapsed/units[u]), u)
+          }
+
+      // weather code inspired by https://kris.omg.lol
       // fetch from API proxy
       fetch('https://paste.jbowdre.lol/tempest.json/raw')
         .then(res => res.json())
         .then(function(res){
 
-          // format data
-          localTime = res.time;
-          var localTime = parseInt(localTime);
-          var localTime = localTime*1000;
-          var localTime = new Date(localTime);
-          var localDate = localTime.toLocaleDateString();
-          var localTime = localTime.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit', hour12: false});
-          var localTime =  localDate + " " + localTime;
+          // calculate age of last update
+          updateTime = res.time;
+          var updateTime = parseInt(updateTime);
+          var updateTime = updateTime*1000;
+          var updateTime = new Date(updateTime);
+          updateAge = getRelativeTime(updateTime);
+
+          // parse data
           conditions = res.conditions;
           temp = (res.air_temperature)+ "° F ("+(((res.air_temperature-32)*5)/9).toFixed(1) + "° C)";
           humidity = res.relative_humidity + "%";
@@ -29,7 +46,7 @@
           icon = res.icon;
 
           // display data
-          document.getElementById('time').innerHTML = localTime;
+          document.getElementById('time').innerHTML = updateAge;
           document.getElementsByClassName('fa-cloud-sun-rain')[0].classList = CLASS_MAP_WX[icon];
           document.getElementById('conditions').innerHTML = conditions;
           document.getElementById('temp').innerHTML = temp;
