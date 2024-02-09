@@ -20,5 +20,3 @@ jobs:
           curl --location --request POST --header "Authorization: Bearer ${{ secrets.OMG_TOKEN }}" \
             "https://api.omg.lol/address/${{ secrets.OMG_ADDR }}/pastebin/" \
             --data "$request_body"
-
-        
