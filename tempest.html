@@ -39,7 +39,7 @@
           conditions = (res.conditions).toLowerCase();
           temp = (res.air_temperature)+ "°f ("+(((res.air_temperature-32)*5)/9).toFixed(1) + "°c)";
           humidity = res.relative_humidity + "% humidity";
-          wind = res.wind_gust + "mph (" + (res.wind_gust*1.609344).toFixed(1)+ "kph) from the " + (res.wind_direction_cardinal).toLowerCase();
+          wind = res.wind_gust + "mph (" + (res.wind_gust*1.609344).toFixed(1)+ "kph) from " + (res.wind_direction_cardinal).toLowerCase();
           precipToday = res.precip_accum_local_day + '" of rain today';
           pressureTrend = res.pressure_trend;
           pressure = (res.station_pressure).toFixed(2) + 'inhg and ' + pressureTrend;
