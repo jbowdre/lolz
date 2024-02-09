@@ -5,22 +5,22 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous">
     <title>Weather Test</title>
     <script>
-          // get ready to calculate relative time
-          var units = {
-            year  : 24 * 60 * 60 * 1000 * 365,
-            month : 24 * 60 * 60 * 1000 * 365/12,
-            day   : 24 * 60 * 60 * 1000,
-            hour  : 60 * 60 * 1000,
-            minute: 60 * 1000,
-            second: 1000
-          }
-          var rtf = new Intl.RelativeTimeFormat('en', { numeric: 'auto' })
-          var getRelativeTime = (d1, d2 = new Date()) => {
-            var elapsed = d1 - d2
-            for (var u in units)
-              if (Math.abs(elapsed) > units[u] || u == 'second')
-                return rtf.format(Math.round(elapsed/units[u]), u)
-          }
+      // get ready to calculate relative time
+      var units = {
+        year  : 24 * 60 * 60 * 1000 * 365,
+        month : 24 * 60 * 60 * 1000 * 365/12,
+        day   : 24 * 60 * 60 * 1000,
+        hour  : 60 * 60 * 1000,
+        minute: 60 * 1000,
+        second: 1000
+      }
+      var rtf = new Intl.RelativeTimeFormat('en', { numeric: 'auto' })
+      var getRelativeTime = (d1, d2 = new Date()) => {
+        var elapsed = d1 - d2
+        for (var u in units)
+          if (Math.abs(elapsed) > units[u] || u == 'second')
+            return rtf.format(Math.round(elapsed/units[u]), u)
+      }
 
       // weather code inspired by https://kris.omg.lol
       // fetch from API proxy
@@ -36,13 +36,13 @@
           updateAge = getRelativeTime(updateTime);
 
           // parse data
-          conditions = res.conditions;
-          temp = (res.air_temperature)+ "° F ("+(((res.air_temperature-32)*5)/9).toFixed(1) + "° C)";
-          humidity = res.relative_humidity + "%";
-          wind = res.wind_gust + " mph (" + (res.wind_gust*1.609344).toFixed(1)+ " kph) " + res.wind_direction_cardinal;
-          precipToday = res.precip_accum_local_day + " in";
+          conditions = (res.conditions).toLowerCase();
+          temp = (res.air_temperature)+ "°f ("+(((res.air_temperature-32)*5)/9).toFixed(1) + "°c)";
+          humidity = res.relative_humidity + "% humidity";
+          wind = res.wind_gust + "mph (" + (res.wind_gust*1.609344).toFixed(1)+ "kph) from the " + (res.wind_direction_cardinal).toLowerCase();
+          precipToday = res.precip_accum_local_day + '" of rain today';
           pressureTrend = res.pressure_trend;
-          pressure = (res.station_pressure).toFixed(2) + " inHg and " + pressureTrend.slice(0,1).toUpperCase() + pressureTrend.slice(1);
+          pressure = (res.station_pressure).toFixed(2) + 'inhg and ' + pressureTrend;
           icon = res.icon;
 
           // display data
@@ -95,7 +95,7 @@
       <li>Temperature: <span id="temp"></span></li>
       <li>Humidity: <span id="humidity"></span></li>
       <li>Wind: <span id="wind"></span></li>
-      <li>Precipitation Today: <span id="precipToday"></span></li>
+      <li>Precipitation: <span id="precipToday"></span></li>
       <li>Pressure: <i class='fa-solid fa-arrow-right-long'></i><span id="pressure"></span></li>
       <li><i>Last Update: <span id="time"></span></i></li>
   </body>
