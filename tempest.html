@@ -29,6 +29,13 @@
         { upper: Infinity, label: 'hot' }
       ];
 
+      var rainRanges = [
+        { upper: 0.02, label: 'none' },
+        { upper: 0.2, label: 'light' },
+        { upper: 1.4, label: 'moderate' },
+        { upper: Infinity, label: 'heavy' }
+      ]
+
       // weather code inspired by https://kris.omg.lol
       // fetch from API proxy
       fetch('https://paste.jbowdre.lol/tempest.json/raw')
@@ -52,6 +59,7 @@
           tempLabel = (tempRanges.find(range => res.feels_like < range.upper)).label;
           humidity = `${res.relative_humidity}% humidity`;
           wind = `${res.wind_gust}mph (${(res.wind_gust*1.609344).toFixed(1)}kph) from ${(res.wind_direction_cardinal).toLowerCase()}`;
+          precipLabel = (rainRanges.find(range => res.precip_accum_local_day < range.upper)).label;
           precipToday = `${res.precip_accum_local_day}" of rain today`;
           pressureTrend = res.pressure_trend;
           pressure = `${res.station_pressure}inhg and ${pressureTrend}`;
@@ -65,6 +73,7 @@
           document.getElementById('temp').innerHTML = temp;
           document.getElementById('humidity').innerHTML = humidity;
           document.getElementById('wind').innerHTML = wind;
+          document.getElementsByClassName('fa-droplet-slash')[0].classList = CLASS_MAP_RAIN[precipLabel];
           document.getElementById('precipToday').innerHTML = precipToday;
           document.getElementsByClassName('fa-arrow-right-long')[0].classList = CLASS_MAP_PRESS[pressureTrend];
           document.getElementById('pressure').innerHTML = pressure;
@@ -75,6 +84,14 @@
       'steady': 'fa-solid fa-arrow-right-long',
       'rising': 'fa-solid fa-arrow-trend-up',
       'falling': 'fa-solid fa-arrow-trend-down'
+      }
+
+      // change the rainfall icon
+      const CLASS_MAP_RAIN = {
+        'none': 'fa-solid fa-droplet-slash',
+        'light': 'fa-solid fa-glass-water-droplet',
+        'moderate': 'fa-solid fa-glass-water',
+        'heavy': 'fa-solid fa-bucket'
       }
 
       // change the temperature icon
@@ -116,7 +133,7 @@
       <li>Temperature: <i class='fa-solid fa-temperature-half'></i> <span id="temp"></span></li>
       <li>Humidity: <span id="humidity"></span></li>
       <li>Wind: <span id="wind"></span></li>
-      <li>Precipitation: <span id="precipToday"></span></li>
+      <li>Precipitation: <i class='fa-solid fa-droplet-slash'></i><span id="precipToday"></span></li>
       <li>Pressure: <i class='fa-solid fa-arrow-right-long'></i><span id="pressure"></span></li>
       <li><i>Last Update: <span id="time"></span></i></li>
   </body>
