@@ -17,7 +17,7 @@ jobs:
     steps:
       - name: Fetch Tempest API data
         run: |
-          curl --location "https://swd.weatherflow.com/swd/rest/better_forecast?station_id=${{ secrets.TEMPEST_STATION }}&token=${{ secrets.TEMPEST_TOKEN }}&units_temp=f&units_wind=mph&units_pressure=inhg&units_precip=in&units_distance=mi" \
+          curl -sL "https://swd.weatherflow.com/swd/rest/better_forecast?station_id=${{ secrets.TEMPEST_STATION }}&token=${{ secrets.TEMPEST_TOKEN }}&units_temp=f&units_wind=mph&units_pressure=inhg&units_precip=in&units_distance=mi" \
             | jq '.current_conditions | {temperature: (.air_temperature | round), conditions, feels_like: (.feels_like | round), icon, rain_today: .precip_accum_local_day, pressure_trend, humidity: .relative_humidity, pressure: ((.sea_level_pressure * 100) | round | . / 100), time, wind_direction: .wind_direction_cardinal, wind_gust}' \
             > tempest.json
       - name: POST to paste.lol
