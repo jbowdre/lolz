@@ -90,23 +90,23 @@
 
           // parse data
           let conditions = (res.conditions).toLowerCase();
-          let tempDiff = Math.abs(res.air_temperature - res.feels_like);
-          let temp = `${res.air_temperature}°f (${(((res.air_temperature - 32) * 5) / 9).toFixed(1)}°c)`;
+          let tempDiff = Math.abs(res.temperature - res.feels_like);
+          let temp = `${res.temperature}°f (${(((res.temperature - 32) * 5) / 9).toFixed(1)}°c)`;
           if (tempDiff >= 5) {
             temp += `, feels ${res.feels_like}°f (${(((res.feels_like - 32) *5) / 9).toFixed(1)}°c)`;
           }
           let tempLabel = (tempRanges.find(range => res.feels_like < range.upper)).label;
-          let humidity = `${res.relative_humidity}% humidity`;
-          let wind = `${res.wind_gust}mph (${(res.wind_gust*1.609344).toFixed(1)}kph) from ${(res.wind_direction_cardinal).toLowerCase()}`;
-          let precipLabel = (rainRanges.find(range => res.precip_accum_local_day < range.upper)).label;
+          let humidity = `${res.humidity}% humidity`;
+          let wind = `${res.wind_gust}mph (${(res.wind_gust*1.609344).toFixed(1)}kph) from ${(res.wind_direction).toLowerCase()}`;
+          let precipLabel = (rainRanges.find(range => res.rain_today < range.upper)).label;
           let precipToday;
-          if (res.precip_accum_local_day === 0) {
+          if (res.rain_today === 0) {
             precipToday = 'no rain today';
           } else {
-            precipToday = `${res.precip_accum_local_day}" rain today`;
+            precipToday = `${res.rain_today}" rain today`;
           }
           let pressureTrend = res.pressure_trend;
-          let pressure = `${res.station_pressure}inhg and ${pressureTrend}`;
+          let pressure = `${res.pressure}inhg and ${pressureTrend}`;
           let icon = res.icon;
 
           // display data
