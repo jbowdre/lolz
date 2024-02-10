@@ -38,7 +38,7 @@
 
       // weather code inspired by https://kris.omg.lol
       // fetch from API proxy
-      fetch('https://paste.jbowdre.lol/testest.json/raw')
+      fetch('https://paste.jbowdre.lol/tempest.json/raw')
         .then(res => res.json())
         .then(function(res){
 
@@ -60,7 +60,11 @@
           humidity = `${res.relative_humidity}% humidity`;
           wind = `${res.wind_gust}mph (${(res.wind_gust*1.609344).toFixed(1)}kph) from ${(res.wind_direction_cardinal).toLowerCase()}`;
           precipLabel = (rainRanges.find(range => res.precip_accum_local_day < range.upper)).label;
-          precipToday = `${res.precip_accum_local_day}" rain today`;
+          if (res.precip_accum_local_day == 0) {
+            precipToday = 'no rain today';
+          } else {
+            precipToday = `${res.precip_accum_local_day}" rain today`;
+          }
           pressureTrend = res.pressure_trend;
           pressure = `${res.station_pressure}inhg and ${pressureTrend}`;
           icon = res.icon;
