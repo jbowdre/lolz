@@ -22,9 +22,16 @@
             return rtf.format(Math.round(elapsed/units[u]), u)
       }
 
+      var tempRanges = [
+        { upper: 32, label: 'cold' },
+        { upper: 60, label: 'cool' },
+        { upper: 80, label: 'warm' },
+        { upper: Infinity, label: 'hot' }
+      ];
+
       // weather code inspired by https://kris.omg.lol
       // fetch from API proxy
-      fetch('https://paste.jbowdre.lol/tempest.json/raw')
+      fetch('https://paste.jbowdre.lol/testest.json/raw')
         .then(res => res.json())
         .then(function(res){
 
@@ -42,6 +49,7 @@
           if (tempDiff >= 5) {
             temp += `, feels ${res.feels_like}°f (${(((res.feels_like - 32) *5) / 9).toFixed(1)}°c)`;
           }
+          tempLabel = (tempRanges.find(range => res.feels_like < range.upper)).label;
           humidity = `${res.relative_humidity}% humidity`;
           wind = `${res.wind_gust}mph (${(res.wind_gust*1.609344).toFixed(1)}kph) from ${(res.wind_direction_cardinal).toLowerCase()}`;
           precipToday = `${res.precip_accum_local_day}" of rain today`;
@@ -53,6 +61,7 @@
           document.getElementById('time').innerHTML = updateAge;
           document.getElementsByClassName('fa-cloud-sun-rain')[0].classList = CLASS_MAP_WX[icon];
           document.getElementById('conditions').innerHTML = conditions;
+          document.getElementsByClassName('fa-temperature-half')[0].classList = CLASS_MAP_TEMP[tempLabel];
           document.getElementById('temp').innerHTML = temp;
           document.getElementById('humidity').innerHTML = humidity;
           document.getElementById('wind').innerHTML = wind;
@@ -66,6 +75,14 @@
       'steady': 'fa-solid fa-arrow-right-long',
       'rising': 'fa-solid fa-arrow-trend-up',
       'falling': 'fa-solid fa-arrow-trend-down'
+      }
+
+      // change the temperature icon
+      const CLASS_MAP_TEMP = {
+      'hot': 'fa-solid fa-thermometer-full',
+      'warm': 'fa-solid fa-thermometer-half',
+      'cool': 'fa-solid fa-thermometer-quarter',
+      'cold': 'fa-solid fa-thermometer-empty'
       }
 
       // change the weather icon
@@ -96,7 +113,7 @@
     <h1>Local Weather</h1>
     <ul>
       <li>Conditions: <i class='fa-solid fa-cloud-sun-rain'></i><span id="conditions"></span></li>
-      <li>Temperature: <span id="temp"></span></li>
+      <li>Temperature: <i class='fa-solid fa-temperature-half'></i> <span id="temp"></span></li>
       <li>Humidity: <span id="humidity"></span></li>
       <li>Wind: <span id="wind"></span></li>
       <li>Precipitation: <span id="precipToday"></span></li>
