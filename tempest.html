@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous">
     <title>Weather Test</title>
     <script>
+      const wx_endpoint = 'https://paste.jbowdre.lol/tempest.json/raw';
       // get ready to calculate relative time
       const units = {
         year  : 24 * 60 * 60 * 1000 * 365,
@@ -77,7 +78,7 @@
       }
 
       // fetch data from pastebin
-      fetch('https://paste.jbowdre.lol/tempest.json/raw')
+      fetch(wx_endpoint)
         .then(res => res.json())
         .then(function(res){
 
