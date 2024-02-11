@@ -99,12 +99,12 @@
           let tempLabel = (tempRanges.find(range => res.feels_like < range.upper)).label;
           let humidity = `${res.humidity}% humidity`;
           let wind = `${res.wind_gust}mph (${(res.wind_gust*1.609344).toFixed(1)}kph) from ${(res.wind_direction).toLowerCase()}`;
-          let precipLabel = (rainRanges.find(range => res.rain_today < range.upper)).label;
-          let precipToday;
+          let rainLabel = (rainRanges.find(range => res.rain_today < range.upper)).label;
+          let rainToday;
           if (res.rain_today === 0) {
-            precipToday = 'no rain today';
+            rainToday = 'no rain today';
           } else {
-            precipToday = `${res.rain_today}" rain today`;
+            rainToday = `${res.rain_today}" rain today`;
           }
           let pressureTrend = res.pressure_trend;
           let pressure = `${res.pressure}inhg and ${pressureTrend}`;
@@ -116,12 +116,12 @@
           document.getElementById('temp').innerHTML = temp;
           document.getElementById('humidity').innerHTML = humidity;
           document.getElementById('wind').innerHTML = wind;
-          document.getElementById('precipToday').innerHTML = precipToday;
+          document.getElementById('rainToday').innerHTML = rainToday;
           document.getElementById('pressure').innerHTML = pressure;
           // update icons
           document.getElementsByClassName('fa-cloud-sun-rain')[0].classList = CLASS_MAP_WX[icon];
           document.getElementsByClassName('fa-temperature-half')[0].classList = CLASS_MAP_TEMP[tempLabel];
-          document.getElementsByClassName('fa-droplet-slash')[0].classList = CLASS_MAP_RAIN[precipLabel];
+          document.getElementsByClassName('fa-droplet-slash')[0].classList = CLASS_MAP_RAIN[rainLabel];
           document.getElementsByClassName('fa-arrow-right-long')[0].classList = CLASS_MAP_PRESS[pressureTrend];
         });
     </script>
@@ -133,7 +133,7 @@
       <li>Temperature: <i class='fa-solid fa-temperature-half'></i> <span id="temp"></span></li>
       <li>Humidity: <span id="humidity"></span></li>
       <li>Wind: <span id="wind"></span></li>
-      <li>Precipitation: <i class='fa-solid fa-droplet-slash'></i><span id="precipToday"></span></li>
+      <li>Precipitation: <i class='fa-solid fa-droplet-slash'></i><span id="rainToday"></span></li>
       <li>Pressure: <i class='fa-solid fa-arrow-right-long'></i><span id="pressure"></span></li>
       <li><i>Last Update: <span id="time"></span></i></li>
   </body>
