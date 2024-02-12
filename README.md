@@ -18,3 +18,5 @@ Once I got the scripting sorted out, I was able to easily transfer the script bl
 ![Groovy styled weather displayed on my profile page](assets/weather-styled.png)
 
 Big thanks to [Kris](https://kris.omg.lol) for the inspiration and examples I needed to get this working.
+
+Full details on how this works are available over on [runtimeterror.dev](https://runtimeterror.dev/display-tempest-weather-static-site/).
