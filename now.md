@@ -13,19 +13,18 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-03-06) [GitOps'd my /now page](https://github.com/jbowdre/lolz/blob/main/.github/workflows/update-now.yml) {wand-sparkles}
 - (2024-02-19) Dynamically generated [OpenGraph images for blog post](https://runtimeterror.dev/dynamic-opengraph-images-with-hugo/) {image}
 - (2024-02-11) Displayed [(near) realtime weather data on a static page](https://runtimeterror.dev/display-tempest-weather-static-site/) {bolt}
 
-
+<br>
 
 ### {screwdriver-wrench} Tinkering
 - Crafting a [Home Assistant](https://www.home-assistant.io/) dashboard for displaying data from my new [Weatherflow Tempest](https://shop.weatherflow.com/products/tempest) weather station
 - Sprucing up my [Nix dotfiles](https://github.com/jbowdre/dotfiles)
-- Updating my [Vagrant-powered Salt Lab](https://github.com/jbowdre/vagrant-saltlab) {cubes-stacked}
 - Getting started with the [Johnny.Decimal system](https://johnnydecimal.com/) {folder-open}
 - Settling in with my new [BOOX Air3 C](https://shop.boox.com/products/noteair3) e-ink writing tablet {tablet}
 - Establishing a foothold in [Geminispace](https://geminiprotocol.net/) {user-astronaut}
-- Using a GitHub Actions workflow to update my /now page {wand-sparkles}
 
 <br>
 
@@ -45,7 +44,7 @@
 
 ### {brain} Learning
 - German with [Duolingo](https://www.duolingo.com/) *(1200+ days and counting...)* {language}
-- Esperanto with [Duoling](https://www.duolingo.com/) {language}
+- Esperanto with [Duolingo](https://www.duolingo.com/) {language}
 - Cloud data lakes with [The Cloud Data Lake](https://www.oreilly.com/library/view/the-cloud-data/9781098116576/) by Rukmani Gopalan {book}
 
 <br>
