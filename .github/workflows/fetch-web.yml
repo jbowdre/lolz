@@ -1,0 +1,32 @@
+name: Fetch Web Page
+on:
+  schedule:
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  fetch-web-page:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Fetch Web Page
+        run: |
+          response=$(curl --location --header "Authorization: Bearer ${{ secrets.OMG_TOKEN }}" \
+            "https://api.omg.lol/address/${{ secrets.OMG_ADDR }}/web" | \
+            jq -r .response)
+          jq -r .content <<< $response > web.md
+          jq -r .css <<< $response > web.css
+          jq -r .head <<< $response > web_head.html
+      - name: Commit Now Page
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'fetch web page'
+          file_pattern: 'web.md web.css web_head.html'
+

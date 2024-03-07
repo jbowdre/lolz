@@ -1,0 +1,27 @@
+name: Update Web Page
+on:
+  push:
+    paths:
+      - 'web.md'
+      - 'web.css'
+      - 'web_head.html'
+  workflow_dispatch:
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  update-web-page:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Update Web Page
+        run: |
+          request_body='{"publish": true, "content": '"$(jq -Rsa . web.md)"', "css": '"$(jq -Rsa . web.css)"', "head": '"$(jq -Rsa . web_head.html)"'}'
+          curl --location --request POST --header "Authorization: Bearer ${{ secrets.OMG_TOKEN }}" \
+            "https://api.omg.lol/address/${{ secrets.OMG_ADDR }}/web" \
+            --data "$request_body"
+
+
