@@ -1,0 +1,23 @@
+name: Update Now Page
+on:
+  push:
+    paths:
+      - 'now.md'
+  workflow_dispatch:
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  update-now-page:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Update Now Page
+        run: |
+          request_body='{"listed": "1", "content": '"$(jq -Rsa . now.md)"'}'
+          curl --location --request POST --header "Authorization: Bearer ${{ secrets.OMG_TOKEN }}" \
+            "https://api.omg.lol/address/${{ secrets.OMG_ADDR }}/now" \
+            --data "$request_body"
