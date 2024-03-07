@@ -1,0 +1,30 @@
+name: Fetch Now Page
+on:
+  schedule:
+    - cron: "* */4 * * *"
+  workflow_dispatch:
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  fetch-and-post-tempest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Fetch Now Page
+        run: |
+          curl --location --header "Authorization: Bearer ${{ secrets.OMG_TOKEN }}" \
+            "https://api.omg.lol/address/${{ secrets.OMG_ADDR }}/now" | \
+            jq -r .response.now.content > now.md
+      - name: Commit Now Page
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name actions-user
+          if ! git diff --exit-code; then
+            git add now.md
+            git commit -m "Update now.md"
+            git push
+          fi
