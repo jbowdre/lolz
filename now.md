@@ -25,6 +25,7 @@
 - Getting started with the [Johnny.Decimal system](https://johnnydecimal.com/) {folder-open}
 - Settling in with my new [BOOX Air3 C](https://shop.boox.com/products/noteair3) e-ink writing tablet {tablet}
 - Establishing a foothold in [Geminispace](https://geminiprotocol.net/) {user-astronaut}
+- Using a GitHub Actions workflow to update my /now page {wand-sparkles}
 
 <br>
 
