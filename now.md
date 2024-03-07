@@ -13,7 +13,7 @@
 <br>
 
 ### {medal} Recent Boasts
-- (2024-03-07) [GitOps'd my /now page](https://github.com/jbowdre/lolz/blob/main/.github/workflows/update-now.yml) and [my omg web page](https://github.com/jbowdre/lolz/blob/main/.github/workflows/update-web.yml) {wand-sparkles}
+- (2024-03-07) [Did a GitOps](https://capsule.jbowdre.lol/gemlog/2024-03-07-gitops-omglol.gmi) to my /now page and my omg web page {wand-sparkles}
 - (2024-02-19) Dynamically generated [OpenGraph images for blog post](https://runtimeterror.dev/dynamic-opengraph-images-with-hugo/) {image}
 - (2024-02-11) Displayed [(near) realtime weather data on a static page](https://runtimeterror.dev/display-tempest-weather-static-site/) {bolt}
 
