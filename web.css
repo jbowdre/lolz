@@ -1,0 +1,53 @@
+#now .statuslol_content a,
+#now .statuslol_content p,
+#now .statuslol_content li,
+#now .statuslol_content em,
+#now .statuslol_content strong {
+  font-size: 0.8em;
+  color: #111;
+  text-shadow: none;
+}
+
+#now .statuslol_content a {
+  color: #111;
+  border-bottom: 1px dotted #111;
+  text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+  overflow-wrap: break-word;
+}
+
+#now .statuslol_content code {
+  color: #111;
+  background: #ced4da;
+  display: inline-block;
+  padding: 0.2em 0.3em;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+#plug p {
+  font-size: 0.8em;
+}
+
+.kudos {
+  display: flex;
+  justify-content: center;
+}
+
+button.tinylytics_kudos {
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.2rem;
+  transition: all .2s ease-in-out;
+}
+
+button.tinylytics_kudos:hover {
+  transform: scale(1.1);
+  text-shadow: var(--off-fg) 0 0 1px;
+}
+
