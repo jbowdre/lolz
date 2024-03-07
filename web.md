@@ -1,6 +1,4 @@
-<!-- test edit -->
 {profile-picture}
-
 
 # John Bowdre
 
@@ -13,7 +11,6 @@
 <span class="kudos">Hi!<button class="tinylytics_kudos"></button></span>
 
 I write code to make imaginary computers run code written by less imaginary developers
-
 
 ---
 
