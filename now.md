@@ -13,6 +13,7 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-03-11) [Shared some thoughts](https://capsule.jbowdre.lol/gemlog/2024-03-11-boox-note-3c-writing-tablet.gmi) on my new BOOX Air3 C e-ink writing tablet {tablet}
 - (2024-03-07) [Did a GitOps](https://capsule.jbowdre.lol/gemlog/2024-03-07-gitops-omglol.gmi) to my /now page and my omg web page {wand-sparkles}
 - (2024-02-19) Dynamically generated [OpenGraph images for blog post](https://runtimeterror.dev/dynamic-opengraph-images-with-hugo/) {image}
 - (2024-02-11) Displayed [(near) realtime weather data on a static page](https://runtimeterror.dev/display-tempest-weather-static-site/) {bolt}
@@ -23,7 +24,6 @@
 - Crafting a [Home Assistant](https://www.home-assistant.io/) dashboard for displaying data from my new [Weatherflow Tempest](https://shop.weatherflow.com/products/tempest) weather station
 - Sprucing up my [Nix dotfiles](https://github.com/jbowdre/dotfiles)
 - Getting started with the [Johnny.Decimal system](https://johnnydecimal.com/) {folder-open}
-- Settling in with my new [BOOX Air3 C](https://shop.boox.com/products/noteair3) e-ink writing tablet {tablet}
 - Establishing a foothold in [Geminispace](https://geminiprotocol.net/) {user-astronaut}
 
 <br>
