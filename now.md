@@ -25,20 +25,19 @@
 - Sprucing up my [Nix dotfiles](https://github.com/jbowdre/dotfiles)
 - Getting started with the [Johnny.Decimal system](https://johnnydecimal.com/) {folder-open}
 - Establishing a foothold in [Geminispace](https://geminiprotocol.net/) {user-astronaut}
-- Configuring a 3-node [Zima Blade](https://www.zimaboard.com/blade/) cluster 
+- Configuring a 3-node [Zima Blade](https://www.zimaboard.com/blade/) [Nomad](https://www.nomadproject.io/) cluster {circle-nodes}
 
 <br>
 
 ### {atom} Plotting
-
 - Figure out Eleventy, maybe? {question}
 
 <br>
 
 ### {circle-play} Consuming
 - [Because Internet](https://gretchenmcculloch.com/book/) by Gretchen McCulloch {book}
-- [The Lost Cause](https://us.macmillan.com/books/9781250865939/thelostcause) by Cory Doctorow {book}
-- [Succession](https://www.imdb.com/title/tt7660850/) {display}
+- [Little Brother](https://craphound.com/littlebrother/about/) by Cory Doctorow {book}
+- [3 Body Problem](https://www.imdb.com/title/tt13016388/) {display}
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) {gamepad}
 - [Lost In The Static](https://musicthread.app/link/2d2w7PLshWdK0CgbBxJxZhvucA0) by After The Burial {headphones}
 
