@@ -45,7 +45,7 @@
 <br>
 
 ### {brain} Learning
-- German with [Duolingo](https://www.duolingo.com/) (Section 4){language}
+- German with [Duolingo](https://www.duolingo.com/) (Section 4) {language}
 - Esperanto with [Duolingo](https://www.duolingo.com/) (Section 1) {language}
 - Cloud data lakes with [The Cloud Data Lake](https://www.oreilly.com/library/view/the-cloud-data/9781098116576/) by Rukmani Gopalan {book}
 
