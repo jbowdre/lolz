@@ -40,14 +40,14 @@
 - [Little Brother](https://craphound.com/littlebrother/about/) by Cory Doctorow {book}
 - [3 Body Problem](https://www.imdb.com/title/tt13016388/) {display}
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) {gamepad}
-- [Lost In The Static](https://musicthread.app/link/2d2w7PLshWdK0CgbBxJxZhvucA0) by After The Burial {headphones}
+- [Dysphoria](https://musicthread.app/link/2ddcRiHPAtFMlBTja9phqwXELSG) by Termina {headphones}
 
 <br>
 
 ### {brain} Learning
 - German with [Duolingo](https://www.duolingo.com/) (Section 4) {language}
 - Esperanto with [Duolingo](https://www.duolingo.com/) (Section 1) {language}
-- Cloud data lakes with [The Cloud Data Lake](https://www.oreilly.com/library/view/the-cloud-data/9781098116576/) by Rukmani Gopalan {book}
+- Running Kubernetes in production with [Production Kubernetes](https://www.oreilly.com/library/view/production-kubernetes/9781492092292/) by Josh Rosso, Rich Lander, Alex Brand, and John Harris {book}
 
 <br>
 
