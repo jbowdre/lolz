@@ -38,7 +38,7 @@
 ### {circle-play} Consuming
 - [Because Internet](https://gretchenmcculloch.com/book/) by Gretchen McCulloch {book}
 - [Little Brother](https://craphound.com/littlebrother/about/) by Cory Doctorow {book}
-- [3 Body Problem](https://www.imdb.com/title/tt13016388/) {display}
+- [Resident Alien](https://www.imdb.com/title/tt8690918/) {display}
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) {gamepad}
 - [Dysphoria](https://musicthread.app/link/2ddcRiHPAtFMlBTja9phqwXELSG) by Termina {headphones}
 
