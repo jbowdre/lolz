@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-03-29) Reached a 1300 day streak on Duolingo {medal}
 - (2024-03-23) Posted notes on [self-hosting my Gemini Capsule](https://runtimeterror.dev/gemini-capsule-gempost-github-actions/) {satellite}
 - (2024-03-11) [Shared some thoughts](https://capsule.jbowdre.lol/gemlog/2024-03-11-boox-note-3c-writing-tablet.gmi) on my new BOOX Air3 C e-ink writing tablet {tablet}
 - (2024-03-07) [Did a GitOps](https://capsule.jbowdre.lol/gemlog/2024-03-07-gitops-omglol.gmi) to my /now page and my omg web page {wand-sparkles}
 - (2024-02-19) Dynamically generated [OpenGraph images for blog post](https://runtimeterror.dev/dynamic-opengraph-images-with-hugo/) {image}
-- (2024-02-11) Displayed [(near) realtime weather data on a static page](https://runtimeterror.dev/display-tempest-weather-static-site/) {bolt}
 
 <br>
 
@@ -37,8 +37,9 @@
 
 ### {circle-play} Consuming
 - [Because Internet](https://gretchenmcculloch.com/book/) by Gretchen McCulloch {book}
-- [Little Brother](https://craphound.com/littlebrother/about/) by Cory Doctorow {book}
+- [Homeland](https://craphound.com/homeland/about/) by Cory Doctorow {book}
 - [Resident Alien](https://www.imdb.com/title/tt8690918/) {display}
+- [Dave](https://www.imdb.com/title/tt8531222/) {display}
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) {gamepad}
 - [Dysphoria](https://musicthread.app/link/2ddcRiHPAtFMlBTja9phqwXELSG) by Termina {headphones}
 
