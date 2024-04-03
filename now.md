@@ -41,7 +41,7 @@
 - [Resident Alien](https://www.imdb.com/title/tt8690918/) {display}
 - [Dave](https://www.imdb.com/title/tt8531222/) {display}
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) {gamepad}
-- [Dysphoria](https://musicthread.app/link/2ddcRiHPAtFMlBTja9phqwXELSG) by Termina {headphones}
+- [MM..FOOD](https://albumwhale.com/albums/1308) by MF DOOM {headphones}
 
 <br>
 
