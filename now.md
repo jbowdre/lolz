@@ -24,7 +24,6 @@
 ### {screwdriver-wrench} Tinkering
 - Crafting a [Home Assistant](https://www.home-assistant.io/) dashboard for displaying data from my new [Weatherflow Tempest](https://shop.weatherflow.com/products/tempest) weather station
 - Sprucing up my [Nix dotfiles](https://github.com/jbowdre/dotfiles)
-- Getting started with the [Johnny.Decimal system](https://johnnydecimal.com/) {folder-open}
 - Establishing a foothold in [Geminispace](https://geminiprotocol.net/) {user-astronaut}
 - Configuring a 3-node [Zima Blade](https://www.zimaboard.com/blade/) [Nomad](https://www.nomadproject.io/) cluster {circle-nodes}
 - Expanding a 3-node [Proxmox](https://www.proxmox.com/en/proxmox-virtual-environment/overview) cluster {server}
@@ -40,7 +39,6 @@
 - [Because Internet](https://gretchenmcculloch.com/book/) by Gretchen McCulloch {book}
 - [Attack Surface](https://craphound.com/about/attacksurface/) by Cory Doctorow {book}
 - [Resident Alien](https://www.imdb.com/title/tt8690918/) {display}
-- [Dave](https://www.imdb.com/title/tt8531222/) {display}
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) {gamepad}
 - [Terraformer](https://songwhip.com/thank-you-scientist/terraformer) by Thank You Scientist {headphones}
 
