@@ -27,6 +27,7 @@
 - Getting started with the [Johnny.Decimal system](https://johnnydecimal.com/) {folder-open}
 - Establishing a foothold in [Geminispace](https://geminiprotocol.net/) {user-astronaut}
 - Configuring a 3-node [Zima Blade](https://www.zimaboard.com/blade/) [Nomad](https://www.nomadproject.io/) cluster {circle-nodes}
+- Expanding a 3-node [Proxmox](https://www.proxmox.com/en/proxmox-virtual-environment/overview) cluster {server}
 
 <br>
 
@@ -37,11 +38,11 @@
 
 ### {circle-play} Consuming
 - [Because Internet](https://gretchenmcculloch.com/book/) by Gretchen McCulloch {book}
-- [Homeland](https://craphound.com/homeland/about/) by Cory Doctorow {book}
+- [Attack Surface](https://craphound.com/about/attacksurface/) by Cory Doctorow {book}
 - [Resident Alien](https://www.imdb.com/title/tt8690918/) {display}
 - [Dave](https://www.imdb.com/title/tt8531222/) {display}
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) {gamepad}
-- [MM..FOOD](https://albumwhale.com/albums/1308) by MF DOOM {headphones}
+- [Terraformer](https://songwhip.com/thank-you-scientist/terraformer) by Thank You Scientist {headphones}
 
 <br>
 
