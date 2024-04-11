@@ -40,7 +40,7 @@
 - [Attack Surface](https://craphound.com/about/attacksurface/) by Cory Doctorow {book}
 - [Resident Alien](https://www.imdb.com/title/tt8690918/) {display}
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) {gamepad}
-- [Terraformer](https://songwhip.com/thank-you-scientist/terraformer) by Thank You Scientist {headphones}
+- [Jazz Rap (playlist)](https://open.spotify.com/playlist/37i9dQZF1DX8Kgdykz6OKj) on Spotify {headphones}
 
 <br>
 
