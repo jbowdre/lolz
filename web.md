@@ -30,7 +30,7 @@ I write code to make imaginary computers run code written by less imaginary deve
 # /mnt/media
 - [autox videos](https://www.youtube.com/playlist?list=PLwzr4uKY-x-EwCv-rWNGefdikuW6Oy9O_)
 - [games i play](https://steamcommunity.com/id/codesplice/)
-- [music i listen to](https://url.jbowdre.lol/song-obsessions) {headphones}
+- [music i listen to](https://www.last.fm/user/pushpianotire) {headphones}
 
 # /usr/local/bin
 - [stuff i use](https://url.jbowdre.lol/stuff-i-use) {thumbs-up}
