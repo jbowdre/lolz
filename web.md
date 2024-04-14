@@ -18,6 +18,7 @@ I write code to make imaginary computers run code written by less imaginary deve
 
 # /dev/stdout
 - [techy blog posts](https://runtimeterror.dev) {laptop-code}
+- [scribbles 'n bits](https://scribbles.jbowdre.lol) {note-sticky}
 - [gemlog](https://capsule.jbowdre.lol/gemlog/) {satellite}
 - [code and kludges](https://github.com/jbowdre)
 
