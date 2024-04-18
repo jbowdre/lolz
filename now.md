@@ -38,7 +38,7 @@
 ### {circle-play} Consuming
 - [Because Internet](https://gretchenmcculloch.com/book/) by Gretchen McCulloch {book}
 - [Attack Surface](https://craphound.com/about/attacksurface/) by Cory Doctorow {book}
-- [Resident Alien](https://www.imdb.com/title/tt8690918/) {display}
+- [Fallout](https://www.imdb.com/title/tt12637874/) {display}
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) {gamepad}
 - [Jazz Rap (playlist)](https://open.spotify.com/playlist/37i9dQZF1DX8Kgdykz6OKj) on Spotify {headphones}
 
