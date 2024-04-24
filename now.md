@@ -37,10 +37,10 @@
 
 ### {circle-play} Consuming
 - [Because Internet](https://gretchenmcculloch.com/book/) by Gretchen McCulloch {book}
-- [Attack Surface](https://craphound.com/about/attacksurface/) by Cory Doctorow {book}
-- [Fallout](https://www.imdb.com/title/tt12637874/) {display}
+- [Futuristic Violence and Fancy Suits](https://johndiesattheend.com/futuristic-violence-fancy-suits/) by Jason Pargin (aka David Wong) {book}
+- [The Gentleman](https://imdb.com/title/tt13210838/) {display}
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) {gamepad}
-- [Jazz Rap (playlist)](https://open.spotify.com/playlist/37i9dQZF1DX8Kgdykz6OKj) on Spotify {headphones}
+- [Homicide (feat. Eminem)](https://musicthread.app/link/2fWfoHJysUL8LlwyiIZoo6Vjmck) by Logic {headphones}
 
 <br>
 
