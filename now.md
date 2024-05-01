@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-05-01) Added [album/track info from MusicThread](https://scribbles.jbowdre.lol/post/adding-musicthread-to-my-now-page) to /now {compact-disc}
+- (2024-04-28) Loaded a [paid custom font](https://runtimeterror.dev/using-custom-font-hugo/) on the main blog {font}
 - (2024-04-13) Started [cross-posting](https://scribbles.jbowdre.lol/post/from-scribbles-to-gemini-with-echofeed) Scribbles to Gemini {satellite-dish}
 - (2024-03-29) Reached a 1300 day streak on Duolingo {medal}
 - (2024-03-23) Posted notes on [self-hosting my Gemini Capsule](https://runtimeterror.dev/gemini-capsule-gempost-github-actions/) {satellite}
-- (2024-03-11) [Shared some thoughts](https://capsule.jbowdre.lol/gemlog/2024-03-11-boox-note-3c-writing-tablet.gmi) on my new BOOX Air3 C e-ink writing tablet {tablet}
-- (2024-03-07) [Did a GitOps](https://capsule.jbowdre.lol/gemlog/2024-03-07-gitops-omglol.gmi) to my /now page and my omg web page {wand-sparkles}
 
 <br>
 
@@ -38,7 +38,7 @@
 ### {circle-play} Consuming
 - [Because Internet](https://gretchenmcculloch.com/book/) by Gretchen McCulloch {book}
 - [Futuristic Violence and Fancy Suits](https://johndiesattheend.com/futuristic-violence-fancy-suits/) by Jason Pargin (aka David Wong) {book}
-- [The Gentleman](https://imdb.com/title/tt13210838/) {display}
+- [Halo](https://www.imdb.com/title/tt2934286/) {display}
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
 
