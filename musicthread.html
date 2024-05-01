@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous">
+    <title>MusicThread  Test</title>
+    <script>
+      // retrieves latest link from a musicthread thread and displays it on the page
+      const musicthread = 'https://musicthread.app/api/v0/thread/2aVjZUocjk96LELFbV5JvJjm14v';
+      fetch(musicthread)
+        .then(res => res.json())
+        .then(function(res){
+          let nowPlaying = res.links[0];
+          document.getElementById('now-playing').innerHTML = "<a href='" + nowPlaying.page_url + "'>" + nowPlaying.title + "</a> by " + nowPlaying.artist;
+        });
+    </script>
+  </head>
+  <body>
+    <h1>Now Playing</h1>
+    <ul>
+      <li><span id="now-playing"> <i class='fa-solid fa-headphones'></i></span></li>
+    </ul>
+  </body>
+</html>
