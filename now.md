@@ -40,7 +40,7 @@
 - [Futuristic Violence and Fancy Suits](https://johndiesattheend.com/futuristic-violence-fancy-suits/) by Jason Pargin (aka David Wong) {book}
 - [The Gentleman](https://imdb.com/title/tt13210838/) {display}
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) {gamepad}
-- [Homicide (feat. Eminem)](https://musicthread.app/link/2fWfoHJysUL8LlwyiIZoo6Vjmck) by Logic {headphones}
+- <span id="now-playing">Silence</span> {headphones}
 
 <br>
 

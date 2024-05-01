@@ -121,5 +121,14 @@ fetch(wx_endpoint)
     document.getElementsByClassName('fa-arrow-right-long')[0].classList = CLASS_MAP_PRESS[pressureTrend];
   });
 </script>
-
+<script>
+// retrieves latest link from a musicthread thread and displays it on the page
+const musicthread = 'https://musicthread.app/api/v0/thread/2aVjZUocjk96LELFbV5JvJjm14v';
+fetch(musicthread)
+  .then(res => res.json())
+  .then(function(res){
+    let nowPlaying = res.links[0];
+    document.getElementById('now-playing').innerHTML = "<a href='" + nowPlaying.page_url + "'>" + nowPlaying.title + "</a> by " + nowPlaying.artist;
+  });
+</script>
 
