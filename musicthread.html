@@ -6,19 +6,24 @@
     <title>MusicThread  Test</title>
     <script>
       // retrieves latest link from a musicthread thread and displays it on the page
-      const musicthread = 'https://musicthread.app/api/v0/thread/2aVjZUocjk96LELFbV5JvJjm14v';
-      fetch(musicthread)
-        .then(res => res.json())
-        .then(function(res){
-          let nowPlaying = res.links[0];
-          document.getElementById('now-playing').innerHTML = "<a href='" + nowPlaying.page_url + "'>" + nowPlaying.title + "</a> by " + nowPlaying.artist;
-        });
+      document.addEventListener("DOMContentLoaded", function() {
+        const musicthread = "https://jbowdre.paste.lol/musicthread.json/raw";
+        const nowPlayingElement = document.getElementById("now-playing");
+        if (nowPlayingElement) {
+          fetch(musicthread)
+            .then(res => res.json())
+            .then(function(res){
+              let nowPlaying = res;
+              nowPlayingElement.innerHTML = "<a href='" + nowPlaying.page_url + "'>" + nowPlaying.title + "</a> by " + nowPlaying.artist;
+            });
+        }
+      });
     </script>
   </head>
   <body>
     <h1>Now Playing</h1>
     <ul>
-      <li><span id="now-playing"> <i class='fa-solid fa-headphones'></i></span></li>
+      <li><span id="now-playing"></span> <i class='fa-solid fa-headphones'></i></li>
     </ul>
   </body>
 </html>
