@@ -22,9 +22,7 @@
 <br>
 
 ### {screwdriver-wrench} Tinkering
-- Crafting a [Home Assistant](https://www.home-assistant.io/) dashboard for displaying data from my new [Weatherflow Tempest](https://shop.weatherflow.com/products/tempest) weather station
-- Sprucing up my [Nix dotfiles](https://github.com/jbowdre/dotfiles)
-- Establishing a foothold in [Geminispace](https://geminiprotocol.net/) {user-astronaut}
+- (Constantly) sprucing up my [Nix dotfiles](https://github.com/jbowdre/dotfiles)
 - Configuring a 3-node [Zima Blade](https://www.zimaboard.com/blade/) [Nomad](https://www.nomadproject.io/) cluster {circle-nodes}
 - Expanding a 3-node [Proxmox](https://www.proxmox.com/en/proxmox-virtual-environment/overview) cluster {server}
 
@@ -32,6 +30,7 @@
 
 ### {atom} Plotting
 - Figure out Eleventy, maybe? {question}
+- Use [Quartz](https://quartz.jzhao.xyz/) to create a public "digital garden" from my Obsidian notes {seedling}
 
 <br>
 
