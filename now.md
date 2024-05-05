@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-05-04) Started [using Quartz to publish my Obsidian Vault](https://scribbles.jbowdre.lol/post/publishing-my-obsidian-vault-with-quartz) as a fledgling digital garden {seedling}
 - (2024-05-01) Added [album/track info from MusicThread](https://scribbles.jbowdre.lol/post/adding-musicthread-to-my-now-page) to /now {compact-disc}
 - (2024-04-28) Loaded a [paid custom font](https://runtimeterror.dev/using-custom-font-hugo/) on the main blog {font}
 - (2024-04-13) Started [cross-posting](https://scribbles.jbowdre.lol/post/from-scribbles-to-gemini-with-echofeed) Scribbles to Gemini {satellite-dish}
 - (2024-03-29) Reached a 1300 day streak on Duolingo {medal}
-- (2024-03-23) Posted notes on [self-hosting my Gemini Capsule](https://runtimeterror.dev/gemini-capsule-gempost-github-actions/) {satellite}
 
 <br>
 
@@ -30,7 +30,6 @@
 
 ### {atom} Plotting
 - Figure out Eleventy, maybe? {question}
-- Use [Quartz](https://quartz.jzhao.xyz/) to create a public "digital garden" from my Obsidian notes {seedling}
 
 <br>
 
@@ -53,14 +52,4 @@
 --- Plug ---
 
 (This is a [/now page](https://nownownow.com/about), where I share what's happening lately. If you have your own site, [you should totally make one](https://nownownow.com/about), too.)
-
-
-
-
-
-
-
-
-
-
 
