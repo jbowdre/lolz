@@ -20,7 +20,7 @@ I write code to make imaginary computers run code written by less imaginary deve
 - [technical blog posts](https://runtimeterror.dev) {laptop-code}
 - [scribbles 'n bits](https://scribbles.jbowdre.lol) {note-sticky}
 - [code and kludges](https://github.com/jbowdre)
-- [note garden](https://notes.runtimeterror.dev) {seedling}
+- [notes to self](https://notes.runtimeterror.dev) {clipboard}
 - [gemlog](https://capsule.jbowdre.lol/gemlog/) {satellite}
 
 
