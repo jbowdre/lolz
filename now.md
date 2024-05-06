@@ -39,6 +39,7 @@
 - [Halo](https://www.imdb.com/title/tt2934286/) {display}
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
+  - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
 
 <br>
 
