@@ -35,9 +35,9 @@
 
 ### {circle-play} Consuming
 - [Because Internet](https://gretchenmcculloch.com/book/) by Gretchen McCulloch {book}
-- [Futuristic Violence and Fancy Suits](https://johndiesattheend.com/futuristic-violence-fancy-suits/) by Jason Pargin (aka David Wong) {book}
+- [Zoey Punches the Future in the Dick](https://johndiesattheend.com/zoey-punches-future-novel/) by Jason Pargin (aka David Wong) {book}
 - [The Great](https://www.imdb.com/title/tt2235759/) {display}
-- [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) {gamepad}
+- [Halo: Combat Evolved](https://store.steampowered.com/app/1064221/Halo_Combat_Evolved_Anniversary/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
 
