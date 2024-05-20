@@ -36,7 +36,7 @@
 ### {circle-play} Consuming
 - [Because Internet](https://gretchenmcculloch.com/book/) by Gretchen McCulloch {book}
 - [Zoey Is Too Drunk for This Dystopia](https://us.macmillan.com/books/9781250290731/zoeyistoodrunkforthisdystopia) by Jason Pargin (aka David Wong) {book}
-- [Inside Man](https://www.imdb.com/title/tt10948716/) {display}
+- [Outer Range](https://www.imdb.com/title/tt11685912/) {display}
 - [Halo: Combat Evolved](https://store.steampowered.com/app/1064221/Halo_Combat_Evolved_Anniversary/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
