@@ -22,6 +22,7 @@
 <br>
 
 ### {screwdriver-wrench} Tinkering
+- Replacing the clutch in a 1973 VW Karmann Ghia {toolbox}
 - (Constantly) sprucing up my [Nix dotfiles](https://github.com/jbowdre/dotfiles)
 - Configuring a 3-node [Zima Blade](https://www.zimaboard.com/blade/) [Nomad](https://www.nomadproject.io/) cluster {circle-nodes}
 - Expanding a 3-node [Proxmox](https://www.proxmox.com/en/proxmox-virtual-environment/overview) cluster {server}
