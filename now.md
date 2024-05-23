@@ -26,11 +26,13 @@
 - (Constantly) sprucing up my [Nix dotfiles](https://github.com/jbowdre/dotfiles)
 - Configuring a 3-node [Zima Blade](https://www.zimaboard.com/blade/) [Nomad](https://www.nomadproject.io/) cluster {circle-nodes}
 - Expanding a 3-node [Proxmox](https://www.proxmox.com/en/proxmox-virtual-environment/overview) cluster {server}
+- Using [Packer](https://github.com/jbowdre/packer-proxmox-templates/) to build VM templates on Proxmox {clone}
 
 <br>
 
 ### {atom} Plotting
 - Figure out Eleventy, maybe? {question}
+- Add some [slashpages](https://slashpages.net/) to my site {file}
 
 <br>
 
@@ -54,4 +56,3 @@
 --- Plug ---
 
 (This is a [/now page](https://nownownow.com/about), where I share what's happening lately. If you have your own site, [you should totally make one](https://nownownow.com/about), too.)
-
