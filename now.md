@@ -38,7 +38,7 @@
 
 ### {circle-play} Consuming
 - [Because Internet](https://gretchenmcculloch.com/book/) by Gretchen McCulloch {book}
-- [Zoey Is Too Drunk for This Dystopia](https://us.macmillan.com/books/9781250290731/zoeyistoodrunkforthisdystopia) by Jason Pargin (aka David Wong) {book}
+- [John Dies at the End](https://johndiesattheend.com/john-dies-end/) by Jason "David Wong" Pargin {book}
 - [Outer Range](https://www.imdb.com/title/tt11685912/) {display}
 - [Halo: Combat Evolved](https://store.steampowered.com/app/1064221/Halo_Combat_Evolved_Anniversary/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
