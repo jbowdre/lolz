@@ -13,11 +13,12 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-06-02) Added some [slash pages](https://runtimeterror.dev/slashes) to my site {file}
 - (2024-05-04) Started [using Quartz to publish my Obsidian Vault](https://scribbles.jbowdre.lol/post/publishing-my-obsidian-vault-with-quartz) as a fledgling digital garden {seedling}
 - (2024-05-01) Added [album/track info from MusicThread](https://scribbles.jbowdre.lol/post/adding-musicthread-to-my-now-page) to /now {compact-disc}
 - (2024-04-28) Loaded a [paid custom font](https://runtimeterror.dev/using-custom-font-hugo/) on the main blog {font}
 - (2024-04-13) Started [cross-posting](https://scribbles.jbowdre.lol/post/from-scribbles-to-gemini-with-echofeed) Scribbles to Gemini {satellite-dish}
-- (2024-03-29) Reached a 1300 day streak on Duolingo {medal}
+
 
 <br>
 
@@ -32,14 +33,13 @@
 
 ### {atom} Plotting
 - Figure out Eleventy, maybe? {question}
-- Add some [slashpages](https://slashpages.net/) to my site {file}
 
 <br>
 
 ### {circle-play} Consuming
 - [Because Internet](https://gretchenmcculloch.com/book/) by Gretchen McCulloch {book}
 - [John Dies at the End](https://johndiesattheend.com/john-dies-end/) by Jason "David Wong" Pargin {book}
-- [Outer Range](https://www.imdb.com/title/tt11685912/) {display}
+- [The Outlaws](https://www.imdb.com/title/tt11646832/) {display}
 - [Halo: Combat Evolved](https://store.steampowered.com/app/1064221/Halo_Combat_Evolved_Anniversary/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
