@@ -39,7 +39,7 @@
 ### {circle-play} Consuming
 - [Because Internet](https://gretchenmcculloch.com/book/) by Gretchen McCulloch {book}
 - [John Dies at the End](https://johndiesattheend.com/john-dies-end/) by Jason "David Wong" Pargin {book}
-- [Star Trek: Lower Decks](https://www.imdb.com/title/tt9184820/) {display}
+- [Bodkin](https://www.imdb.com/title/tt21072112/) {display}
 - [Halo: Combat Evolved](https://store.steampowered.com/app/1064221/Halo_Combat_Evolved_Anniversary/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
