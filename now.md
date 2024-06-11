@@ -13,12 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-06-09) Replaced a [failed EPS motor coupler and installed new brake pads](https://scribbles.jbowdre.lol/post/weekend-car-projects) on the BRZ {wrench}
 - (2024-06-02) Added some [slash pages](https://runtimeterror.dev/slashes) to my site {file}
 - (2024-05-04) Started [using Quartz to publish my Obsidian Vault](https://scribbles.jbowdre.lol/post/publishing-my-obsidian-vault-with-quartz) as a fledgling digital garden {seedling}
 - (2024-05-01) Added [album/track info from MusicThread](https://scribbles.jbowdre.lol/post/adding-musicthread-to-my-now-page) to /now {compact-disc}
 - (2024-04-28) Loaded a [paid custom font](https://runtimeterror.dev/using-custom-font-hugo/) on the main blog {font}
-- (2024-04-13) Started [cross-posting](https://scribbles.jbowdre.lol/post/from-scribbles-to-gemini-with-echofeed) Scribbles to Gemini {satellite-dish}
-
 
 <br>
 
