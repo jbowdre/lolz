@@ -59,7 +59,7 @@ button.tinylytics_kudos:hover {
   background: #B2F2BB;
   display: inline-block;
   margin-left: 0.2rem;
-  vertical-align: text-bottom;
+  vertical-align: middle;
   animation: cursor-blink 1.5s steps(2) infinite;
 }
 

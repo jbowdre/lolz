@@ -10,7 +10,7 @@
 
 <span class="kudos">Hi!<button class="tinylytics_kudos"></button></span>
 
-<div id="typo" style="height: 5rem;" data-typo-chance="2" data-typing-delay="40" data-typing-jitter="20">I write code to make imaginary computers run code written by less imaginary developers</div>
+<span id="typo" style="height: 5rem;" data-typo-chance="2" data-typing-delay="40" data-typing-jitter="20">I write code to make imaginary computers run code written by less imaginary developers</span>
 
 ---
 
