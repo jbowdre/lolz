@@ -36,9 +36,8 @@
 <br>
 
 ### {circle-play} Consuming
-- [Because Internet](https://gretchenmcculloch.com/book/) by Gretchen McCulloch {book}
-- [John Dies at the End](https://johndiesattheend.com/john-dies-end/) by Jason "David Wong" Pargin {book}
-- [Bodkin](https://www.imdb.com/title/tt21072112/) {display}
+- [This Book is Full of Spiders: Seriously Dude, Don't Touch It](https://johndiesattheend.com/book-full-spiders/) by Jason "David Wong" Pargin {book}
+- [The Boys](https://www.imdb.com/title/tt1190634/) {display}
 - [Halo: Combat Evolved](https://store.steampowered.com/app/1064221/Halo_Combat_Evolved_Anniversary/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
@@ -55,8 +54,4 @@
 --- Plug ---
 
 (This is a [/now page](https://nownownow.com/about), where I share what's happening lately. If you have your own site, [you should totally make one](https://nownownow.com/about), too.)
-
-
-
-
 
