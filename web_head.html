@@ -2,6 +2,7 @@
 <!-- add pride bar for june -->
 <link rel="stylesheet" href="https://cdn.pride.codes/css/bar_body.css">
 <script src="https://tinylytics.app/embed/QUH6xcnWKYeUUYaMkDKd.js?kudos=👋" defer></script>
+<script src="https://paste.lol/jbowdre/typo.js/raw"></script>
 <script>
 // get weather data from pastebin
 document.addEventListener("DOMContentLoaded", function() {
@@ -142,6 +143,14 @@ document.addEventListener("DOMContentLoaded", function() {
         nowPlayingElement.innerHTML = "<a href='" + nowPlaying.page_url + "'>" + nowPlaying.title + "</a> by " + nowPlaying.artist;
       });
   }
+});
+</script>
+<script>
+// implement typo
+document.addEventListener('DOMContentLoaded', function() {
+  var element = document.getElementById('typo');
+  var text = element.innerHTML;
+  typo(element, text);
 });
 </script>
 
