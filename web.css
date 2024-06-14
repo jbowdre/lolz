@@ -51,7 +51,23 @@ button.tinylytics_kudos:hover {
   text-shadow: var(--off-fg) 0 0 1px;
 }
 
+/* tagline cursor animation */
+#typo::after {
+  content: "";
+  width: 0.5rem;
+  height: 1.2rem;
+  background: #B2F2BB;
+  display: inline-block;
+  margin-left: 0.2rem;
+  vertical-align: text-bottom;
+  animation: cursor-blink 1.5s steps(2) infinite;
+}
 
+@keyframes cursor-blink {
+  0% {
+    opacity: 0;
+  }
+}
 
 
 
