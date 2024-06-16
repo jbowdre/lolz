@@ -37,7 +37,7 @@
 
 ### {circle-play} Consuming
 - [This Book is Full of Spiders: Seriously Dude, Don't Touch It](https://johndiesattheend.com/book-full-spiders/) by Jason "David Wong" Pargin {book}
-- [The Boys](https://www.imdb.com/title/tt1190634/) {display}
+- [The Boys](https://www.imdb.com/title/tt1190634/), [Sweet Tooth](https://www.imdb.com/title/tt12809988) {display}
 - [Halo: Combat Evolved](https://store.steampowered.com/app/1064221/Halo_Combat_Evolved_Anniversary/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
