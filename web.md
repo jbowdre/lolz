@@ -48,13 +48,13 @@
   - PGP: {pgp-key}
 
 # /proc/wx
-- <span id="conditions"></span> {cloud-sun-rain}
-- <span id="temp"></span> {temperature-half}
-- <span id="humidity"></span> {droplet}
-- <span id="wind"></span> {wind}
-- <span id="rainToday"></span> {droplet-slash}
-- <span id="pressure"></span> {arrow-right-long}
-- <i>as of <span id="time"></span></i> {clock}
+- <span id="conditions">developing...</span> {cloud-sun-rain}
+- <span id="temp">developing...</span> {temperature-half}
+- <span id="humidity">developing...</span> {droplet}
+- <span id="wind">developing...</span> {wind}
+- <span id="rainToday">developing...</span> {droplet-slash}
+- <span id="pressure">developing...</span> {arrow-right-long}
+- <i>as of <span id="time">recently</span></i> {clock}
 
 
 
