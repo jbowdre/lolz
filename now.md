@@ -46,7 +46,7 @@
 
 ### {brain} Learning
 - German with [Duolingo](https://www.duolingo.com/) (Section 4, Unit 17) {language}
-- Esperanto with [Duolingo](https://www.duolingo.com/) (Section 1, Unit 7) {language}
+- Esperanto with [Duolingo](https://www.duolingo.com/) (Section 1, Unit 8) {language}
 - Running Kubernetes in production with [Production Kubernetes](https://www.oreilly.com/library/view/production-kubernetes/9781492092292/) by Josh Rosso, Rich Lander, Alex Brand, and John Harris {book}
 
 <br>
