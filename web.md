@@ -8,8 +8,6 @@
 
 --- Bio ---
 
-<span class="kudos">Hi!<button class="tinylytics_kudos">👋 00</button></span>
-
 <div style="height: 5rem;"><span id="typo" data-typo-chance="2" data-typing-delay="40" data-typing-jitter="20"></span></div>
 
 ---
