@@ -16,9 +16,9 @@
 
 # /dev/stdout
 - [technical blog posts](https://runtimeterror.dev) {laptop-code}
-- [scribbles 'n bits](https://scribbles.jbowdre.lol) {note-sticky}
 - [code and kludges](https://github.com/jbowdre)
 - [notes to self](https://notes.runtimeterror.dev) {clipboard}
+- [weblog](https://scribbles.jbowdre.lol) {pen-to-square}
 - [gemlog](https://capsule.jbowdre.lol/gemlog/) {satellite}
 
 
