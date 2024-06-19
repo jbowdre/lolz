@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
-- (2024-06-09) Replaced a [failed EPS motor coupler and installed new brake pads](https://scribbles.jbowdre.lol/post/weekend-car-projects) on the BRZ {wrench}
+- (2024-06-19) Moved my [personal blog to Bear blog](https://blog.jbowdre.lol)
+- (2024-06-09) Replaced a [failed EPS motor coupler and installed new brake pads](https://blog.jbowdre.lol/post/weekend-car-projects) on the BRZ {wrench}
 - (2024-06-02) Added some [slash pages](https://runtimeterror.dev/slashes) to my site {file}
-- (2024-05-04) Started [using Quartz to publish my Obsidian Vault](https://scribbles.jbowdre.lol/post/publishing-my-obsidian-vault-with-quartz) as a fledgling digital garden {seedling}
-- (2024-05-01) Added [album/track info from MusicThread](https://scribbles.jbowdre.lol/post/adding-musicthread-to-my-now-page) to /now {compact-disc}
-- (2024-04-28) Loaded a [paid custom font](https://runtimeterror.dev/using-custom-font-hugo/) on the main blog {font}
+- (2024-05-04) Started [using Quartz to publish my Obsidian Vault](https://blog.jbowdre.lol/post/publishing-my-obsidian-vault-with-quartz) as a fledgling digital garden {seedling}
+- (2024-05-01) Added [album/track info from MusicThread](https://blog.jbowdre.lol/post/adding-musicthread-to-my-now-page) to /now {compact-disc}
 
 <br>
 
@@ -37,7 +37,7 @@
 
 ### {circle-play} Consuming
 - [This Book is Full of Spiders: Seriously Dude, Don't Touch It](https://johndiesattheend.com/book-full-spiders/) by Jason "David Wong" Pargin {book}
-- [The Boys](https://www.imdb.com/title/tt1190634/), [Sweet Tooth](https://www.imdb.com/title/tt12809988) {display}
+- [The Boys](https://www.imdb.com/title/tt1190634/), [Bodies](https://www.imdb.com/title/tt18347622) {display}
 - [Halo: Combat Evolved](https://store.steampowered.com/app/1064221/Halo_Combat_Evolved_Anniversary/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
