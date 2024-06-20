@@ -13,7 +13,7 @@
 <br>
 
 ### {medal} Recent Boasts
-- (2024-06-19) Moved my [personal blog to Bear blog](https://blog.jbowdre.lol)
+- (2024-06-19) Moved my [personal blog to Bear](https://blog.jbowdre.lol)
 - (2024-06-09) Replaced a [failed EPS motor coupler and installed new brake pads](https://blog.jbowdre.lol/post/weekend-car-projects) on the BRZ {wrench}
 - (2024-06-02) Added some [slash pages](https://runtimeterror.dev/slashes) to my site {file}
 - (2024-05-04) Started [using Quartz to publish my Obsidian Vault](https://blog.jbowdre.lol/post/publishing-my-obsidian-vault-with-quartz) as a fledgling digital garden {seedling}
@@ -45,7 +45,7 @@
 <br>
 
 ### {brain} Learning
-- German with [Duolingo](https://www.duolingo.com/) (Section 4, Unit 17) {language}
+- German with [Duolingo](https://www.duolingo.com/) (Section 4, Unit 18) {language}
 - Esperanto with [Duolingo](https://www.duolingo.com/) (Section 1, Unit 8) {language}
 - Running Kubernetes in production with [Production Kubernetes](https://www.oreilly.com/library/view/production-kubernetes/9781492092292/) by Josh Rosso, Rich Lander, Alex Brand, and John Harris {book}
 
