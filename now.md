@@ -13,11 +13,12 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-06-24) Implemented a simple [upvote widget with Cabin](https://runtimeterror.dev/kudos-with-cabin/) {thumbs-up}
 - (2024-06-19) Moved my [personal blog to Bear](https://blog.jbowdre.lol) {paw}
 - (2024-06-09) Replaced a [failed EPS motor coupler and installed new brake pads](https://blog.jbowdre.lol/post/weekend-car-projects) on the BRZ {wrench}
 - (2024-06-02) Added some [slash pages](https://runtimeterror.dev/slashes) to my site {file}
 - (2024-05-04) Started [using Quartz to publish my Obsidian Vault](https://blog.jbowdre.lol/post/publishing-my-obsidian-vault-with-quartz) as a fledgling digital garden {seedling}
-- (2024-05-01) Added [album/track info from MusicThread](https://blog.jbowdre.lol/post/adding-musicthread-to-my-now-page) to /now {compact-disc}
+
 
 <br>
 
@@ -25,8 +26,8 @@
 - Replacing the clutch in a 1973 VW Karmann Ghia {toolbox}
 - (Constantly) sprucing up my [Nix dotfiles](https://github.com/jbowdre/dotfiles)
 - Configuring a 3-node [Zima Blade](https://www.zimaboard.com/blade/) [Nomad](https://www.nomadproject.io/) cluster {circle-nodes}
-- Expanding a 3-node [Proxmox](https://www.proxmox.com/en/proxmox-virtual-environment/overview) cluster {server}
 - Using [Packer](https://github.com/jbowdre/packer-proxmox-templates/) to build VM templates on Proxmox {clone}
+- Creating a simple [feed aggregator powered by GitHub Actions](https://github.com/chillfeed/chillfeed) {rss}
 
 <br>
 
@@ -37,7 +38,7 @@
 
 ### {circle-play} Consuming
 - [This Book is Full of Spiders: Seriously Dude, Don't Touch It](https://johndiesattheend.com/book-full-spiders/) by Jason "David Wong" Pargin {book}
-- [The Boys](https://www.imdb.com/title/tt1190634/), [Bodies](https://www.imdb.com/title/tt18347622) {display}
+- [The Boys](https://www.imdb.com/title/tt1190634/), [Behind Her Eyes](https://www.imdb.com/title/tt9698442) {display}
 - [Halo: Combat Evolved](https://store.steampowered.com/app/1064221/Halo_Combat_Evolved_Anniversary/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
