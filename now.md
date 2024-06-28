@@ -27,7 +27,7 @@
 - (Constantly) sprucing up my [Nix dotfiles](https://github.com/jbowdre/dotfiles)
 - Configuring a 3-node [Zima Blade](https://www.zimaboard.com/blade/) [Nomad](https://www.nomadproject.io/) cluster {circle-nodes}
 - Using [Packer](https://github.com/jbowdre/packer-proxmox-templates/) to build VM templates on Proxmox {clone}
-- Creating a simple [feed aggregator powered by GitHub Actions](https://github.com/chillfeed/chillfeed) {rss}
+- Experimenting with my [simple feed aggregator powered by GitHub Actions](https://github.com/chillfeed/chillfeed) {rss}
 
 <br>
 
@@ -38,7 +38,7 @@
 
 ### {circle-play} Consuming
 - [This Book is Full of Spiders: Seriously Dude, Don't Touch It](https://johndiesattheend.com/book-full-spiders/) by Jason "David Wong" Pargin {book}
-- [The Boys](https://www.imdb.com/title/tt1190634/), [Behind Her Eyes](https://www.imdb.com/title/tt9698442) {display}
+- [The Boys](https://www.imdb.com/title/tt1190634/), [White Collar](https://www.imdb.com/title/tt1358522) {display}
 - [Halo: Combat Evolved](https://store.steampowered.com/app/1064221/Halo_Combat_Evolved_Anniversary/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
