@@ -15,14 +15,14 @@ jobs:
       contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Fetch Now Page
         run: |
           curl --location --header "Authorization: Bearer ${{ secrets.OMG_TOKEN }}" \
             "https://api.omg.lol/address/${{ secrets.OMG_ADDR }}/now" | \
             jq -r .response.now.content > now.md
       - name: Commit Now Page
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'fetch /now page'
           file_pattern: 'now.md'

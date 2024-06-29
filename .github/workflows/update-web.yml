@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Update Web Page
         run: |
           request_body='{"publish": true, "content": '"$(jq -Rsa . web.md)"', "css": '"$(jq -Rsa . web.css)"', "head": '"$(jq -Rsa . web_head.html)"'}'

@@ -15,7 +15,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Fetch Web Page
         run: |
           response=$(curl --location --header "Authorization: Bearer ${{ secrets.OMG_TOKEN }}" \
@@ -25,7 +25,7 @@ jobs:
           jq -r .css <<< $response > web.css
           jq -r .head <<< $response > web_head.html
       - name: Commit Now Page
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'fetch web page'
           file_pattern: 'web.md web.css web_head.html'
