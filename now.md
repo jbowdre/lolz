@@ -13,12 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-06-30) Added [external link markers](https://blog.jbowdre.lol/adding-external-link-markers-in-hugo-and-bear/) to my Hugo and Bear blogs {arrow-up-right-from-square}
 - (2024-06-24) Implemented a simple [upvote widget with Cabin](https://runtimeterror.dev/kudos-with-cabin/) {thumbs-up}
 - (2024-06-19) Moved my [personal blog to Bear](https://blog.jbowdre.lol) {paw}
 - (2024-06-09) Replaced a [failed EPS motor coupler and installed new brake pads](https://blog.jbowdre.lol/post/weekend-car-projects) on the BRZ {wrench}
 - (2024-06-02) Added some [slash pages](https://runtimeterror.dev/slashes) to my site {file}
-- (2024-05-04) Started [using Quartz to publish my Obsidian Vault](https://blog.jbowdre.lol/post/publishing-my-obsidian-vault-with-quartz) as a fledgling digital garden {seedling}
-
 
 <br>
 
@@ -38,29 +37,20 @@
 
 ### {circle-play} Consuming
 - [This Book is Full of Spiders: Seriously Dude, Don't Touch It](https://johndiesattheend.com/book-full-spiders/) by Jason "David Wong" Pargin {book}
-- [The Boys](https://www.imdb.com/title/tt1190634/), [White Collar](https://www.imdb.com/title/tt1358522) {display}
+- [The Boys](https://www.imdb.com/title/tt1190634/), [White Collar](https://www.imdb.com/title/tt1358522), [The Bear](https://www.imdb.com/title/tt14452776) {display}
 - [Halo: Combat Evolved](https://store.steampowered.com/app/1064221/Halo_Combat_Evolved_Anniversary/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
 
 <br>
 
-### {brain} Learning
+### {brain} Studying
 - German with [Duolingo](https://www.duolingo.com/) (Section 4, Unit 18) {language}
-- Esperanto with [Duolingo](https://www.duolingo.com/) (Section 1, Unit 8) {language}
-- Running Kubernetes in production with [Production Kubernetes](https://www.oreilly.com/library/view/production-kubernetes/9781492092292/) by Josh Rosso, Rich Lander, Alex Brand, and John Harris {book}
+- Esperanto with [Duolingo](https://www.duolingo.com/) (Section 1, Unit 9) {language}
 
 <br>
 
 --- Plug ---
 
 (This is a [/now page](https://nownownow.com/about), where I share what's happening lately. If you have your own site, [you should totally make one](https://nownownow.com/about), too.)
-
-
-
-
-
-
-
-
 
