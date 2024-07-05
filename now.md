@@ -36,7 +36,7 @@
 <br>
 
 ### {circle-play} Consuming
-- [What the hell did I just read: a novel of cosmic horror](https://openlibrary.org/works/OL20188485W/What_the_Hell_Did_I_Just_Read?edition=key%3A/books/OL26934723M) by Jason "David Wong" Pargin {book}
+- [What the hell did I just read: a novel of cosmic horror](https://openlibrary.org/works/OL20188485W/What_the_Hell_Did_I_Just_Read) by Jason "David Wong" Pargin {book}
 - [The Boys](https://www.imdb.com/title/tt1190634/), [White Collar](https://www.imdb.com/title/tt1358522), [The Bear](https://www.imdb.com/title/tt14452776) {display}
 - [Halo: Combat Evolved](https://store.steampowered.com/app/1064221/Halo_Combat_Evolved_Anniversary/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
@@ -47,6 +47,7 @@
 ### {brain} Studying
 - German with [Duolingo](https://www.duolingo.com/) (Section 4, Unit 18) {language}
 - Esperanto with [Duolingo](https://www.duolingo.com/) (Section 1, Unit 9) {language}
+- Going deeper with Go, with [Go Programming - From Beginner to Professional](https://openlibrary.org/works/OL38409851W/Go_Programming_-_From_Beginner_to_Professional) by Samantha Coyle {book}
 
 <br>
 
