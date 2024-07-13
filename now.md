@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-07-12) Took a mental health day and completed a [20-mile multi-surface ride](https://blog.jbowdre.lol/mental-health-gravel-ride-day/) {bicycle}
+- (2024-07-11) Celebrated a 1400 day streak in Duolingo! {language}
 - (2024-06-30) Added [external link markers](https://blog.jbowdre.lol/adding-external-link-markers-in-hugo-and-bear/) to my Hugo and Bear blogs {arrow-up-right-from-square}
 - (2024-06-24) Implemented a simple [upvote widget with Cabin](https://runtimeterror.dev/kudos-with-cabin/) {thumbs-up}
 - (2024-06-19) Moved my [personal blog to Bear](https://blog.jbowdre.lol) {paw}
-- (2024-06-09) Replaced a [failed EPS motor coupler and installed new brake pads](https://blog.jbowdre.lol/post/weekend-car-projects) on the BRZ {wrench}
-- (2024-06-02) Added some [slash pages](https://runtimeterror.dev/slashes) to my site {file}
 
 <br>
 
@@ -38,7 +38,7 @@
 ### {circle-play} Consuming
 - [What the hell did I just read: a novel of cosmic horror](https://openlibrary.org/works/OL20188485W/What_the_Hell_Did_I_Just_Read) by Jason "David Wong" Pargin {book}
 - [The Boys](https://www.imdb.com/title/tt1190634/), [White Collar](https://www.imdb.com/title/tt1358522) {display}
-- [Halo: Combat Evolved](https://store.steampowered.com/app/1064221/Halo_Combat_Evolved_Anniversary/) {gamepad}
+- [The Last of Us Part I](https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
 
@@ -54,9 +54,3 @@
 --- Plug ---
 
 (This is a [/now page](https://nownownow.com/about), where I share what's happening lately. If you have your own site, [you should totally make one](https://nownownow.com/about), too.)
-
-
-
-
-
-
