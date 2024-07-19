@@ -36,7 +36,7 @@
 <br>
 
 ### {circle-play} Consuming
-- [What the hell did I just read: a novel of cosmic horror](https://openlibrary.org/works/OL20188485W/What_the_Hell_Did_I_Just_Read) by Jason "David Wong" Pargin {book}
+- [Truth of the Divine](https://openlibrary.org/works/OL24198736W/Truth_of_the_Divine) by Lindsay Ellis {book}
 - [The Boys](https://www.imdb.com/title/tt1190634/), [White Collar](https://www.imdb.com/title/tt1358522) {display}
 - [The Last of Us Part I](https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
