@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-07-29) Took a [new Tailscale feature for a testdrive](https://runtimeterror.dev/taking-taildrive-testdrive/) {hard-drive}
+- (2024-07-27) Finished an [autocross event](https://youtu.be/U0EKRsuZXzM) 0.001 seconds behind another competitor {flag-checkered}
 - (2024-07-25) Wrote about [automating Packer builds with GitHub Actions](https://runtimeterror.dev/automate-packer-builds-github-actions/) {industry}
 - (2024-07-20) Posted a blog post that's been a draft for 6+ weeks: [Building Proxmox Templates with Packer](https://runtimeterror.dev/building-proxmox-templates-packer/) {pen-nib}
 - (2024-07-12) Took a mental health day and completed a [20-mile multi-surface ride](https://blog.jbowdre.lol/mental-health-gravel-ride-day/) {bicycle}
-- (2024-07-11) Celebrated a 1400 day streak in Duolingo! {language}
-- (2024-06-30) Added [external link markers](https://blog.jbowdre.lol/adding-external-link-markers-in-hugo-and-bear/) to my Hugo and Bear blogs {arrow-up-right-from-square}
 
 <br>
 
@@ -37,7 +37,7 @@
 
 ### {circle-play} Consuming
 - [Truth of the Divine](https://openlibrary.org/works/OL24198736W/Truth_of_the_Divine) by Lindsay Ellis {book}
-- [The Boys](https://www.imdb.com/title/tt1190634/), [White Collar](https://www.imdb.com/title/tt1358522) {display}
+- [White Collar](https://www.imdb.com/title/tt1358522) {display}
 - [The Last of Us Part I](https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/) {gamepad}
 - <span id="now-playing">Silence</span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
