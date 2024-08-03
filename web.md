@@ -18,7 +18,7 @@
 - [technical blog posts](https://runtimeterror.dev) {laptop-code}
 - [code and kludges](https://github.com/jbowdre)
 - [notes to myself](https://notes.runtimeterror.dev) {clipboard}
-- [weblog](https://blog.jbowdre.lol) {pen-to-square}
+- [srs bsns (lol)](https://srsbsns.lol) {pen-to-square}
 - [gemlog](https://capsule.jbowdre.lol/gemlog/) {satellite}
 
 

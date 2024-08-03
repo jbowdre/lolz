@@ -17,7 +17,7 @@
 - (2024-07-27) Finished an [autocross event](https://youtu.be/U0EKRsuZXzM) 0.001 seconds behind another competitor {flag-checkered}
 - (2024-07-25) Wrote about [automating Packer builds with GitHub Actions](https://runtimeterror.dev/automate-packer-builds-github-actions/) {industry}
 - (2024-07-20) Posted a blog post that's been a draft for 6+ weeks: [Building Proxmox Templates with Packer](https://runtimeterror.dev/building-proxmox-templates-packer/) {pen-nib}
-- (2024-07-12) Took a mental health day and completed a [20-mile multi-surface ride](https://blog.jbowdre.lol/mental-health-gravel-ride-day/) {bicycle}
+- (2024-07-12) Took a mental health day and completed a [20-mile multi-surface ride](https://srsbsns.lol/mental-health-gravel-ride-day/) {bicycle}
 
 <br>
 
