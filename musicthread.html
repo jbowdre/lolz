@@ -5,9 +5,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous">
     <title>MusicThread  Test</title>
   <script>
-    // replace theme-song placeholder text when the musicthread response comes in
-    document.addEventListener('DOMContentLoaded', function() {
-      const themeSongContainer = document.getElementById('theme-song');
+  // replace theme-song placeholder text when the musicthread response comes in
+  document.addEventListener('DOMContentLoaded', function() {
+    const themeSongContainer = document.getElementById('theme-song');
+    if (themeSongContainer) {
       const observer = new MutationObserver(function(mutations) {
         mutations.forEach(function(mutation) {
           if (mutation.type === 'childList' && themeSongContainer.childNodes.length > 2) {
@@ -17,7 +18,10 @@
         });
       });
       observer.observe(themeSongContainer, { childList: true });
-    });
+    } else {
+      console.Warn('Theme song container not found');
+    }
+  });
   </script>
   </head>
   <body>
