@@ -4,26 +4,26 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous">
     <title>MusicThread  Test</title>
-    <script>
-      // retrieves latest link from a musicthread thread and displays it on the page
-      document.addEventListener("DOMContentLoaded", function() {
-        const musicthread = "https://musicthread.app/api/v0/thread/2aVjZUocjk96LELFbV5JvJjm14v";
-        const nowPlayingElement = document.getElementById("now-playing");
-        if (nowPlayingElement) {
-          fetch(musicthread)
-            .then(res => res.json())
-            .then(function(res){
-              let nowPlaying = res;
-              nowPlayingElement.innerHTML = "<a href='" + nowPlaying.page_url + "'>" + nowPlaying.title + "</a> by " + nowPlaying.artist;
-            });
-        }
+  <script>
+    // replace theme-song placeholder text when the musicthread response comes in
+    document.addEventListener('DOMContentLoaded', function() {
+      const themeSongContainer = document.getElementById('theme-song');
+      const observer = new MutationObserver(function(mutations) {
+        mutations.forEach(function(mutation) {
+          if (mutation.type === 'childList' && themeSongContainer.childNodes.length > 2) {
+            themeSongContainer.removeChild(themeSongContainer.firstChild);
+            observer.disconnect();
+          }
+        });
       });
-    </script>
+      observer.observe(themeSongContainer, { childList: true });
+    });
+  </script>
   </head>
   <body>
     <h1>Now Playing</h1>
     <ul>
-      <li><span id="now-playing"></span> <i class='fa-solid fa-headphones'></i></li>
+      <li><span id="theme-song">Silence<script src="https://res.jbowdre.lol/js/theme-song.js?id=2aVjZUocjk96LELFbV5JvJjm14v&plain=true" defer></script></span><i class='fa-solid fa-headphones'></i></li>
     </ul>
   </body>
 </html>

@@ -39,7 +39,7 @@
 - [Truth of the Divine](https://openlibrary.org/works/OL24198736W/Truth_of_the_Divine) by Lindsay Ellis {book}
 - [White Collar](https://www.imdb.com/title/tt1358522), [Canada's Drag Race: Canada vs the World](https://www.imdb.com/title/tt19357598/) {display}
 - [The Last of Us Part I](https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/) {gamepad}
-- <span id="now-playing">Silence</span> {headphones}
+- <span id="theme-song">Silence<script src="https://res.jbowdre.lol/js/theme-song.js?id=2aVjZUocjk96LELFbV5JvJjm14v&plain=true" defer></script></span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
 
 <br>

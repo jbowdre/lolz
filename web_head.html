@@ -140,19 +140,19 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 <script>
-// retrieves latest link from a musicthread thread and displays it on the page
-document.addEventListener("DOMContentLoaded", function() {
-  const musicthread = 'https://musicthread.app/api/v0/thread/2aVjZUocjk96LELFbV5JvJjm14v';
-  const nowPlayingElement = document.getElementById('now-playing');
-  if (nowPlayingElement) {
-    fetch(musicthread)
-      .then(res => res.json())
-      .then(function(res){
-        let nowPlaying = res.links[0];
-        nowPlayingElement.innerHTML = "<a href='" + nowPlaying.page_url + "'>" + nowPlaying.title + "</a> by " + nowPlaying.artist;
+  // replace theme-song placeholder text when the musicthread response comes in
+  document.addEventListener('DOMContentLoaded', function() {
+    const themeSongContainer = document.getElementById('theme-song');
+    const observer = new MutationObserver(function(mutations) {
+      mutations.forEach(function(mutation) {
+        if (mutation.type === 'childList' && themeSongContainer.childNodes.length > 2) {
+          themeSongContainer.removeChild(themeSongContainer.firstChild);
+          observer.disconnect();
+        }
       });
-  }
-});
+    });
+    observer.observe(themeSongContainer, { childList: true });
+  });
 </script>
 
 
