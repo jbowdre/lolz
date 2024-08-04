@@ -8,8 +8,10 @@
 // implement typo
 document.addEventListener('DOMContentLoaded', function() {
   let typoElement = document.getElementById('typo');
-  let typoText = "I write code to make imaginary computers run code written by less imaginary developers";
-  typo(typoElement, typoText);
+  if (typoElement) {
+    let typoText = "I write code to make imaginary computers run code written by less imaginary developers";
+    typo(typoElement, typoText);
+  }
 });
 </script>
 <script src="https://res.jbowdre.lol/js/weather.js" defer></script>
@@ -27,8 +29,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
       });
       observer.observe(themeSongContainer, { childList: true });
-    } else {
-      console.log("No music container here.");
     }
   });
 </script>
