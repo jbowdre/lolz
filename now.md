@@ -31,11 +31,6 @@
 
 <br>
 
-### {atom} Plotting
-- Figure out Eleventy, maybe? {question}
-
-<br>
-
 ### {circle-play} Consuming
 - [Apostles of Mercy](https://openlibrary.org/works/OL38083372W/Apostles_of_Mercy) by Lindsay Ellis {book}
 - [White Collar](https://www.imdb.com/title/tt1358522), [Canada's Drag Race: Canada vs the World](https://www.imdb.com/title/tt19357598/) {display}
