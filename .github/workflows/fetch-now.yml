@@ -25,5 +25,8 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'fetch /now page'
+          commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
+          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_user_name: 'github-actions[bot]'
           file_pattern: 'now.md'
 
