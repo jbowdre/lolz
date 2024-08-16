@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-08-15) Fumbled with CSS and JS to implement a light/dark theme selector on [runtimeterror](https://runtimeterror.dev) {circle-half-stroke}
 - (2024-08-10) Installed Tailscale [on a robot vacuum](https://social.lol/@jbowdre/112940725551170482) {robot}
 - (2024-08-09) Fell in love with [a web-based notes app](https://srsbsns.lol/is-silverbullet-the-note-keeping-silver-bullet/) {clipboard}
 - (2024-08-06) Began [dynamically generating robots.txt](https://runtimeterror.dev/dynamic-robots-txt-hugo-external-data-sources/) from [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) {ban}
 - (2024-08-03) Rolled out a [new domain](https://srsbsns.lol/new-domain/) for my personal blog {face-laugh}
-- (2024-07-29) Took a [new Tailscale feature for a testdrive](https://runtimeterror.dev/taking-taildrive-testdrive/) {hard-drive}
 
 
 <br>
@@ -28,6 +28,7 @@
 - Configuring a 3-node [Zima Blade](https://www.zimaboard.com/blade/) [Nomad](https://www.nomadproject.io/) cluster {circle-nodes}
 - Using [Packer](https://github.com/jbowdre/packer-proxmox-templates/) to build VM templates on Proxmox {clone}
 - Experimenting with my [simple feed aggregator powered by GitHub Actions](https://github.com/chillfeed/chillfeed) {rss}
+- Fumbling through a bicycle tune-up {bicycle}
 
 <br>
 
