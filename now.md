@@ -34,7 +34,7 @@
 
 ### {circle-play} Consuming
 - [Apostles of Mercy](https://openlibrary.org/works/OL38083372W/Apostles_of_Mercy) by Lindsay Ellis {book}
-- [Suits](https://www.imdb.com/title/tt1632701/), [Canada's Drag Race: Canada vs the World](https://www.imdb.com/title/tt19357598/), [RuPaul's Drag Race Global All Stars](https://www.imdb.com/title/tt32919055/) {display}
+- [The Decameron](https://www.imdb.com/title/tt21831910/), [Canada's Drag Race: Canada vs the World](https://www.imdb.com/title/tt19357598/), [RuPaul's Drag Race Global All Stars](https://www.imdb.com/title/tt32919055/) {display}
 - [The Last of Us Part I](https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/) {gamepad}
 - <span id="theme-song">Silence<script src="https://res.jbowdre.lol/js/theme-song.js?id=2aVjZUocjk96LELFbV5JvJjm14v&plain=true" defer></script></span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
@@ -43,7 +43,7 @@
 
 ### {brain} Studying
 - German with [Duolingo](https://www.duolingo.com/) (Section 4, Unit 20) {language}
-- Esperanto with [Duolingo](https://www.duolingo.com/) (Section 1, Unit 10) {language}
+- Esperanto with [Duolingo](https://www.duolingo.com/) (Section 1, Unit 11) {language}
 - Going deeper with Go, with [Go Programming: From Beginner to Professional](https://openlibrary.org/works/OL38409851W/Go_Programming_-_From_Beginner_to_Professional) by Samantha Coyle {book}
 
 <br>
