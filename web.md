@@ -26,7 +26,7 @@
 - [counter.social](https://counter.social/@john_b) {hashtag}
 - [social.lol](https://social.lol/@jbowdre)
 - [statuslog](https://status.jbowdre.lol) {prami}
-- [/now](https://jbowdre.lol/now) {prami}
+- [/now](https://jbowdre.lol/now) {stopwatch}
 
 # /mnt/media
 - [music i listen to](https://www.last.fm/user/pushpianotire) {headphones}
