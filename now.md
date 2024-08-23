@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-08-21) [Accepted a new job](https://srsbsns.lol/i-got-a-new-job/) *and* shared notes on [how I set up SilverBullet](https://runtimeterror.dev/silverbullet-self-hosted-knowledge-management/) {wand-magic-sparkles}
 - (2024-08-15) Fumbled with CSS and JS to implement a light/dark theme selector on [runtimeterror](https://runtimeterror.dev) {moon}
 - (2024-08-10) Installed Tailscale [on a robot vacuum](https://social.lol/@jbowdre/112940725551170482) {robot}
 - (2024-08-09) Fell in love with [a web-based notes app](https://srsbsns.lol/is-silverbullet-the-note-keeping-silver-bullet/) {clipboard}
 - (2024-08-06) Began [dynamically generating robots.txt](https://runtimeterror.dev/dynamic-robots-txt-hugo-external-data-sources/) from [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) {ban}
-- (2024-08-03) Rolled out a [new domain](https://srsbsns.lol/new-domain/) for my personal blog {face-laugh}
 
 
 <br>
