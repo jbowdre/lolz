@@ -29,12 +29,13 @@
 - Using [Packer](https://github.com/jbowdre/packer-proxmox-templates/) to build VM templates on Proxmox {clone}
 - Experimenting with my [simple feed aggregator powered by GitHub Actions](https://github.com/chillfeed/chillfeed) {rss}
 - Fumbling through multiple bicycle tune-ups {bicycle}
+- Exploring [Portainer](https://portainer.io) for wrangling my various Docker workloads {docker}
 
 <br>
 
 ### {circle-play} Consuming
 - [Apostles of Mercy](https://openlibrary.org/works/OL38083372W/Apostles_of_Mercy) by Lindsay Ellis {book}
-- [The Decameron](https://www.imdb.com/title/tt21831910/), [Canada's Drag Race: Canada vs the World](https://www.imdb.com/title/tt19357598/), [RuPaul's Drag Race Global All Stars](https://www.imdb.com/title/tt32919055/) {display}
+- [Mayfair Witches](https://www.imdb.com/title/tt15428778/), [RuPaul's Drag Race Global All Stars](https://www.imdb.com/title/tt32919055/) {display}
 - [The Last of Us Part I](https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/) {gamepad}
 - <span id="theme-song">Silence<script src="https://res.jbowdre.lol/js/theme-song.js?id=2aVjZUocjk96LELFbV5JvJjm14v&plain=true" defer></script></span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
