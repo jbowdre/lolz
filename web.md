@@ -36,7 +36,7 @@
 
 
 # /usr/local/bin
-- [stuff i use](https://url.jbowdre.lol/stuff-i-use) {thumbs-up}
+- [stuff i use](https://srsbsns.lol/uses) {thumbs-up}
 
 # /dev/stdin
 - [simplex chat](https://url.jbowdre.lol/simplex-chat-invite) {message}
