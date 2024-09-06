@@ -28,7 +28,6 @@
 - Configuring a 3-node [Zima Blade](https://www.zimaboard.com/blade/) [Nomad](https://www.nomadproject.io/) cluster {circle-nodes}
 - Using [Packer](https://github.com/jbowdre/packer-proxmox-templates/) to build VM templates on Proxmox {clone}
 - Experimenting with my [simple feed aggregator powered by GitHub Actions](https://github.com/chillfeed/chillfeed) {rss}
-- Fumbling through multiple bicycle tune-ups {bicycle}
 - Exploring [Portainer](https://portainer.io) for wrangling my various Docker workloads {docker}
 
 <br>
@@ -43,7 +42,7 @@
 <br>
 
 ### {brain} Studying
-- German with [Duolingo](https://www.duolingo.com/) (Section 4, Unit 20) {language}
+- German with [Duolingo](https://www.duolingo.com/) (Section 4, Unit 21) {language}
 - Esperanto with [Duolingo](https://www.duolingo.com/) (Section 1, Unit 11) {language}
 - Going deeper with Go, with [Go Programming: From Beginner to Professional](https://openlibrary.org/works/OL38409851W/Go_Programming_-_From_Beginner_to_Professional) by Samantha Coyle {book}
 
