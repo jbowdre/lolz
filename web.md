@@ -30,7 +30,8 @@
 
 # /mnt/media
 - [music i listen to](https://www.last.fm/user/pushpianotire) {headphones}
-- [posts i read](https://links.bowdre.net/bookmarks/shared?q=%23PostRoll) {bookmark}
+- [posts i bookmark](https://links.bowdre.net/bookmarks/shared?q=%23PostRoll) {bookmark}
+- [books i read](https://app.thestorygraph.com/profile/voiceroyalslam) {book-open-reader}
 - [games i play](https://steamcommunity.com/id/codesplice/)
 - [racing i do](https://www.youtube.com/playlist?list=PLwzr4uKY-x-EwCv-rWNGefdikuW6Oy9O_) {car}
 
