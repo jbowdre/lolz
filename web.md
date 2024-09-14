@@ -3,7 +3,7 @@
 # John Bowdre
 
 | Pronouns: he/him
-| Occupation: cloud platform architect
+| Occupation: platform architect
 | Location: huntsville, al
 
 --- Bio ---
@@ -55,20 +55,3 @@
 - <span id="rainToday">developing...</span> {droplet-slash}
 - <span id="pressure">developing...</span> {arrow-right-long}
 - <i>as of <span id="time">recently</span></i> {clock}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
