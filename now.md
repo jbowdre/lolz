@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-09-14) [Reflected on what I accomplished](https://srsbsns.lol/the-end-of-something-and-the-start-of-something-else/) at my previous job as I get ready to start a new one {business-time}
 - (2024-09-07) Rode 29 miles (and survived to tell the tale!) {person-biking}
 - (2024-08-21) [Accepted a new job](https://srsbsns.lol/i-got-a-new-job/) *and* shared notes on [how I set up SilverBullet](https://runtimeterror.dev/silverbullet-self-hosted-knowledge-management/) {wand-magic-sparkles}
 - (2024-08-15) Fumbled with CSS and JS to implement a light/dark theme selector on [runtimeterror](https://runtimeterror.dev) {moon}
 - (2024-08-10) Installed Tailscale [on a robot vacuum](https://social.lol/@jbowdre/112940725551170482) {robot}
-- (2024-08-09) Fell in love with [a web-based notes app](https://srsbsns.lol/is-silverbullet-the-note-keeping-silver-bullet/) {clipboard}
 
 
 <br>
@@ -33,8 +33,8 @@
 <br>
 
 ### {circle-play} Consuming
-- [If This Book Exists, You're in the Wrong Universe](https://app.thestorygraph.com/books/ebe5fe68-4aad-4dd7-9df0-30b00405f6af) by Jason Pargin {book}
-- [House of the Dragon](https://www.imdb.com/title/tt11198330/), [RuPaul's Drag Race Global All Stars](https://www.imdb.com/title/tt32919055/) {display}
+- [Consider Phlebas](https://app.thestorygraph.com/books/0c71176b-7de6-4f30-9462-aebeecf944a0) by Iain M. Banks {book}
+- [Only Murders in the Building](https://www.imdb.com/title/tt11691774/), [RuPaul's Drag Race Global All Stars](https://www.imdb.com/title/tt32919055/) {display}
 - [The Last of Us Part I](https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/) {gamepad}
 - <span id="theme-song">Silence<script src="https://res.jbowdre.lol/js/theme-song.js?id=2aVjZUocjk96LELFbV5JvJjm14v&plain=true" defer></script></span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
@@ -51,15 +51,3 @@
 --- Plug ---
 
 (This is a [/now page](https://nownownow.com/about), where I share what's happening lately. If you have your own site, [you should totally make one](https://nownownow.com/about), too.)
-
-
-
-
-
-
-
-
-
-
-
-
