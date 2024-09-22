@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-09-21) Rode 40(ish) miles and celebrated with all-I-could-eat barbecue {bicycle}
 - (2024-09-14) [Reflected on what I accomplished](https://srsbsns.lol/the-end-of-something-and-the-start-of-something-else/) at my previous job as I get ready to start a new one {business-time}
 - (2024-09-07) Rode 29 miles (and survived to tell the tale!) {person-biking}
 - (2024-08-21) [Accepted a new job](https://srsbsns.lol/i-got-a-new-job/) *and* shared notes on [how I set up SilverBullet](https://runtimeterror.dev/silverbullet-self-hosted-knowledge-management/) {wand-magic-sparkles}
 - (2024-08-15) Fumbled with CSS and JS to implement a light/dark theme selector on [runtimeterror](https://runtimeterror.dev) {moon}
-- (2024-08-10) Installed Tailscale [on a robot vacuum](https://social.lol/@jbowdre/112940725551170482) {robot}
 
 
 <br>
