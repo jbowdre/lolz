@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-10-13) Looked back on [an awesome experience at Furnace Fest 2024](https://srsbsns.lol/the-end-of-an-era-furnace-fest-2024/).
 - (2024-09-29) Began [publishing (selected) SilverBullet notes with Quartz](https://runtimeterror.dev/publish-silverbullet-notes-quartz/) over at [notes.runtimeterror.dev](https://notes.runtimeterror.dev) {gem}
 - (2024-09-21) Rode 40(ish) miles and celebrated with all-I-could-eat barbecue {bicycle}
 - (2024-09-14) [Reflected on what I accomplished](https://srsbsns.lol/the-end-of-something-and-the-start-of-something-else/) at my previous job as I get ready to start a new one {business-time}
 - (2024-09-07) Rode 29 miles (and survived to tell the tale!) {person-biking}
-- (2024-08-21) [Accepted a new job](https://srsbsns.lol/i-got-a-new-job/) *and* shared notes on [how I set up SilverBullet](https://runtimeterror.dev/silverbullet-self-hosted-knowledge-management/) {wand-magic-sparkles}
 
 <br>
 
@@ -34,7 +34,7 @@
 ### {circle-play} Consuming
 - [Consider Phlebas](https://app.thestorygraph.com/books/0c71176b-7de6-4f30-9462-aebeecf944a0) by Iain M. Banks {book}
 - [Only Murders in the Building](https://www.imdb.com/title/tt11691774/) (Season 4) {display}
-- [Nobody Wants This](https://www.imdb.com/title/tt26933824/) {display}
+- [Kevin Can F**k Himself](https://www.imdb.com/title/tt9257258/) {display}
 - [RuPaul's Drag Race Global All Stars](https://www.imdb.com/title/tt32919055/) {chess-queen}
 - [Drag Race España](https://www.imdb.com/title/tt13606528/) (Season 4) {chess-queen}
 - [RuPaul's Drag Race UK](https://www.imdb.com/title/tt9780442/) (Season 6) {chess-queen}
