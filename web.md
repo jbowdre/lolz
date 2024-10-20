@@ -22,8 +22,8 @@
 
 # /dev/net
 - [counter.social](https://counter.social/@john_b) {hashtag}
-- [social.lol](https://social.lol/@jbowdre)
 - [statuslog](https://status.jbowdre.lol) {prami}
+- [fedi](https://goto.srsbsns.lol/@john)
 - [/now](https://jbowdre.lol/now) {stopwatch}
 
 # /mnt/media
