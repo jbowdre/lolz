@@ -19,8 +19,6 @@
 - [code and kludges](https://github.com/jbowdre)
 - [notes to myself](https://notes.runtimeterror.dev) {clipboard}
 - [srs bsns (lol)](https://srsbsns.lol) {pen-to-square}
-- [gemlog](https://capsule.jbowdre.lol/gemlog/) {satellite}
-
 
 # /dev/net
 - [counter.social](https://counter.social/@john_b) {hashtag}
@@ -34,7 +32,6 @@
 - [books i read](https://app.thestorygraph.com/profile/voiceroyalslam) {book-open-reader}
 - [games i play](https://steamcommunity.com/id/codesplice/)
 - [racing i do](https://www.youtube.com/playlist?list=PLwzr4uKY-x-EwCv-rWNGefdikuW6Oy9O_) {car}
-
 
 # /usr/local/bin
 - [stuff i use](https://srsbsns.lol/uses) {thumbs-up}
