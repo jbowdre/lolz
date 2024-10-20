@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
-- (2024-10-13) Looked back on [an awesome experience at Furnace Fest 2024](https://srsbsns.lol/the-end-of-an-era-furnace-fest-2024/).
+- (2024-10-20) Migrated my Fediverse presence to an [ActivityPub server running on a Raspberry Pi](https://srsbsns.lol/going-to-gotosocial/) {mastodon}
+- (2024-10-13) Looked back on [an awesome experience at Furnace Fest 2024](https://srsbsns.lol/the-end-of-an-era-furnace-fest-2024/)
 - (2024-09-29) Began [publishing (selected) SilverBullet notes with Quartz](https://runtimeterror.dev/publish-silverbullet-notes-quartz/) over at [notes.runtimeterror.dev](https://notes.runtimeterror.dev) {gem}
 - (2024-09-21) Rode 40(ish) miles and celebrated with all-I-could-eat barbecue {bicycle}
 - (2024-09-14) [Reflected on what I accomplished](https://srsbsns.lol/the-end-of-something-and-the-start-of-something-else/) at my previous job as I get ready to start a new one {business-time}
-- (2024-09-07) Rode 29 miles (and survived to tell the tale!) {person-biking}
 
 <br>
 
