@@ -23,7 +23,7 @@
 # /dev/net
 - [counter.social](https://counter.social/@john_b) {hashtag}
 - [statuslog](https://status.jbowdre.lol) {prami}
-- [fedi](https://goto.srsbsns.lol/@john)
+- [fediverse](https://goto.srsbsns.lol/@john) {mastodon}
 - [/now](https://jbowdre.lol/now) {stopwatch}
 
 # /mnt/media
