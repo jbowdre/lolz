@@ -22,8 +22,8 @@
 <br>
 
 ### {screwdriver-wrench} Tinkering
-- Replacing the clutch in a 1974 VW Karmann Ghia {toolbox}
-- (Constantly) sprucing up my [Nix dotfiles](https://github.com/jbowdre/dotfiles)
+- Wrenching on a 1974 VW Karmann Ghia {toolbox}
+- Fiddling with my [Nix dotfiles](https://github.com/jbowdre/dotfiles)
 - Configuring a 3-node [Zima Blade](https://www.zimaboard.com/blade/) [Nomad](https://www.nomadproject.io/) cluster {circle-nodes}
 - Using [Packer](https://github.com/jbowdre/packer-proxmox-templates/) to build VM templates on Proxmox {clone}
 - Experimenting with my [simple feed aggregator powered by GitHub Actions](https://github.com/chillfeed/chillfeed) {rss}
@@ -32,10 +32,8 @@
 <br>
 
 ### {circle-play} Consuming
-- [Consider Phlebas](https://app.thestorygraph.com/books/0c71176b-7de6-4f30-9462-aebeecf944a0) by Iain M. Banks {book}
-- [Only Murders in the Building](https://www.imdb.com/title/tt11691774/) (Season 4) {display}
-- [Kevin Can F**k Himself](https://www.imdb.com/title/tt9257258/) {display}
-- [RuPaul's Drag Race Global All Stars](https://www.imdb.com/title/tt32919055/) {chess-queen}
+- [Cold Storage](https://app.thestorygraph.com/books/ce6e5acc-cc3a-48d4-8e5d-a4f1b44be8b3) by David Koepp {book}
+- [Abbott Elementary](https://www.imdb.com/title/tt14218830/) {display}
 - [Drag Race España](https://www.imdb.com/title/tt13606528/) (Season 4) {chess-queen}
 - [RuPaul's Drag Race UK](https://www.imdb.com/title/tt9780442/) (Season 6) {chess-queen}
 - [The Boulet Brothers' Dragula](https://www.imdb.com/title/tt6289132/) (Season 6) {chess-queen}
