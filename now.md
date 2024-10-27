@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-10-26) Reached a [1500 day streak](https://goto.srsbsns.lol/@john/statuses/01JB5FZBZFJCVEQCZX8490SK35) on Duolingo {language}
 - (2024-10-20) Migrated my Fediverse presence to an [ActivityPub server running on a Raspberry Pi](https://srsbsns.lol/going-to-gotosocial/) {mastodon}
 - (2024-10-13) Looked back on [an awesome experience at Furnace Fest 2024](https://srsbsns.lol/the-end-of-an-era-furnace-fest-2024/)
 - (2024-09-29) Began [publishing (selected) SilverBullet notes with Quartz](https://runtimeterror.dev/publish-silverbullet-notes-quartz/) over at [notes.runtimeterror.dev](https://notes.runtimeterror.dev) {gem}
 - (2024-09-21) Rode 40(ish) miles and celebrated with all-I-could-eat barbecue {bicycle}
-- (2024-09-14) [Reflected on what I accomplished](https://srsbsns.lol/the-end-of-something-and-the-start-of-something-else/) at my previous job as I get ready to start a new one {business-time}
 
 <br>
 
@@ -35,6 +35,7 @@
 - [Cold Storage](https://app.thestorygraph.com/books/ce6e5acc-cc3a-48d4-8e5d-a4f1b44be8b3) by David Koepp {book}
 - [Yellowjackets](https://www.imdb.com/title/tt11041332/) {display}
 - [Abbott Elementary](https://www.imdb.com/title/tt14218830/) {display}
+- [Star Trek: Lower Decks](https://www.imdb.com/title/tt9184820/) {display}
 - [Drag Race España](https://www.imdb.com/title/tt13606528/) (Season 4) {chess-queen}
 - [RuPaul's Drag Race UK](https://www.imdb.com/title/tt9780442/) (Season 6) {chess-queen}
 - [The Boulet Brothers' Dragula](https://www.imdb.com/title/tt6289132/) (Season 6) {chess-queen}
