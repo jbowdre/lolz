@@ -4,6 +4,7 @@
 #now .statuslol_content em,
 #now .statuslol_content strong {
   font-size: 0.8em;
+  overflow-wrap: inherit;
   color: #111;
   text-shadow: none;
 }
