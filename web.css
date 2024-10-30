@@ -29,6 +29,10 @@
   word-break: break-all;
 }
 
+#now .statuslol_content img {
+  width: 100%;
+}
+
 #plug p {
   font-size: 0.8em;
 }
