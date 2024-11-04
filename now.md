@@ -32,12 +32,13 @@
 <br>
 
 ### {circle-play} Consuming
-- [Cold Storage](https://app.thestorygraph.com/books/ce6e5acc-cc3a-48d4-8e5d-a4f1b44be8b3) by David Koepp {book}
-- [Yellowjackets](https://www.imdb.com/title/tt11041332/) {display}
-- [Abbott Elementary](https://www.imdb.com/title/tt14218830/) {display}
-- [Star Trek: Lower Decks](https://www.imdb.com/title/tt9184820/) {display}
+- [Mickey7](https://app.thestorygraph.com/books/84b2ea71-3965-4ba7-8a22-c3532df42c76) by Edward Ashton {book}
+- [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4){display}
+- [Star Trek: Lower Decks](https://www.imdb.com/title/tt9184820/) (Season 5){display}
+- [What We Do In The Shadows](https://www.imdb.com/title/tt7908628) (Season 6) {display}
 - [Drag Race España](https://www.imdb.com/title/tt13606528/) (Season 4) {chess-queen}
 - [RuPaul's Drag Race UK](https://www.imdb.com/title/tt9780442/) (Season 6) {chess-queen}
+- [Drag Race Down Under](https://www.imdb.com/title/tt14192040/) (Season 4) {chess-queen}
 - [The Boulet Brothers' Dragula](https://www.imdb.com/title/tt6289132/) (Season 6) {chess-queen}
 - [The Last of Us Part I](https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/) {gamepad}
 - [Mudrunner](https://store.steampowered.com/app/675010/MudRunner/) {gamepad}
