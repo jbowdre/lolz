@@ -32,7 +32,7 @@
 <br>
 
 ### {circle-play} Consuming
-- [Mickey7](https://app.thestorygraph.com/books/84b2ea71-3965-4ba7-8a22-c3532df42c76) by Edward Ashton {book}
+- [Pushing Ice](https://app.thestorygraph.com/books/0861867a-f910-4a90-8214-204b6157fd90) by Alastair Reynolds {book}
 - [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4){display}
 - [Star Trek: Lower Decks](https://www.imdb.com/title/tt9184820/) (Season 5){display}
 - [What We Do In The Shadows](https://www.imdb.com/title/tt7908628) (Season 6) {display}
