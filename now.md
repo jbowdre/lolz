@@ -49,7 +49,7 @@
 
 ### {brain} Studying
 - German with [Duolingo](https://www.duolingo.com/) (Section 4, Unit 23) {language}
-- Esperanto with [Duolingo](https://www.duolingo.com/) (Section 1, Unit 12) {language}
+- Esperanto with [Duolingo](https://www.duolingo.com/) (Section 1, Unit 13) {language}
 - Going deeper with Go, with [Go Programming: From Beginner to Professional](https://openlibrary.org/works/OL38409851W/Go_Programming_-_From_Beginner_to_Professional) by Samantha Coyle {book}
 
 <br>
@@ -57,9 +57,3 @@
 --- Plug ---
 
 (This is a [/now page](https://nownownow.com/about), where I share what's happening lately. If you have your own site, [you should totally make one](https://nownownow.com/about), too.)
-
-
-
-
-
-
