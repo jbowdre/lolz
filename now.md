@@ -33,15 +33,15 @@
 
 ### {circle-play} Consuming
 - [Pushing Ice](https://app.thestorygraph.com/books/0861867a-f910-4a90-8214-204b6157fd90) by Alastair Reynolds {book}
-- [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4){display}
-- [Star Trek: Lower Decks](https://www.imdb.com/title/tt9184820/) (Season 5){display}
+- [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
+- [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4) {display}
+- [Star Trek: Lower Decks](https://www.imdb.com/title/tt9184820/) (Season 5) {display}
 - [What We Do In The Shadows](https://www.imdb.com/title/tt7908628) (Season 6) {display}
 - [Drag Race España](https://www.imdb.com/title/tt13606528/) (Season 4) {chess-queen}
 - [RuPaul's Drag Race UK](https://www.imdb.com/title/tt9780442/) (Season 6) {chess-queen}
 - [Drag Race Down Under](https://www.imdb.com/title/tt14192040/) (Season 4) {chess-queen}
 - [The Boulet Brothers' Dragula](https://www.imdb.com/title/tt6289132/) (Season 6) {chess-queen}
-- [The Last of Us Part I](https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/) {gamepad}
-- [Mudrunner](https://store.steampowered.com/app/675010/MudRunner/) {gamepad}
+- [Half-Life 2](https://store.steampowered.com/app/220/HalfLife_2/) {gamepad}
 - <span id="theme-song">Silence<script src="https://res.jbowdre.lol/js/theme-song.js?id=2aVjZUocjk96LELFbV5JvJjm14v&plain=true" defer></script></span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
 
