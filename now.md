@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-11-27) Deployed [Opengist](https://srsbsns.lol/opening-up-opengist/), and self-hosted open-source pastebin {clipboard}
 - (2024-10-26) Reached a [1500 day streak](https://goto.srsbsns.lol/@john/statuses/01JB5FZBZFJCVEQCZX8490SK35) on Duolingo {language}
 - (2024-10-20) Migrated my Fediverse presence to an [ActivityPub server running on a Raspberry Pi](https://srsbsns.lol/going-to-gotosocial/) {mastodon}
 - (2024-10-13) Looked back on [an awesome experience at Furnace Fest 2024](https://srsbsns.lol/the-end-of-an-era-furnace-fest-2024/) {music}
 - (2024-09-29) Began [publishing (selected) SilverBullet notes with Quartz](https://runtimeterror.dev/publish-silverbullet-notes-quartz/) over at [notes.runtimeterror.dev](https://notes.runtimeterror.dev) {gem}
-- (2024-09-21) Rode 40(ish) miles and celebrated with all-I-could-eat barbecue {bicycle}
 
 <br>
 
@@ -33,7 +33,7 @@
 
 ### {circle-play} Consuming
 - [Pushing Ice](https://app.thestorygraph.com/books/0861867a-f910-4a90-8214-204b6157fd90) by Alastair Reynolds {book}
-- [Upper Middle Bogan](https://www.imdb.com/title/tt2401525/) (Season 2) {display}
+- [Dune Prophecy](https://www.imdb.com/title/tt10466872/) {display}
 - [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
 - [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4) {display}
 - [Star Trek: Lower Decks](https://www.imdb.com/title/tt9184820/) (Season 5) {display}
