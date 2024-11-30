@@ -39,7 +39,6 @@
 - [Star Trek: Lower Decks](https://www.imdb.com/title/tt9184820/) (Season 5) {display}
 - [What We Do In The Shadows](https://www.imdb.com/title/tt7908628) (Season 6) {display}
 - [Drag Race España](https://www.imdb.com/title/tt13606528/) (Season 4) {chess-queen}
-- [RuPaul's Drag Race UK](https://www.imdb.com/title/tt9780442/) (Season 6) {chess-queen}
 - [Drag Race Down Under](https://www.imdb.com/title/tt14192040/) (Season 4) {chess-queen}
 - [Canada's Drag Race](https://www.imdb.com/title/tt11382554/) (Season 5) {chess-queen}
 - [The Boulet Brothers' Dragula](https://www.imdb.com/title/tt6289132/) (Season 6) {chess-queen}
