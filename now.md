@@ -33,7 +33,8 @@
 
 ### {circle-play} Consuming
 - [Pushing Ice](https://app.thestorygraph.com/books/0861867a-f910-4a90-8214-204b6157fd90) by Alastair Reynolds {book}
-- [Dune Prophecy](https://www.imdb.com/title/tt10466872/) {display}
+- [English Teacher](https://www.imdb.com/title/tt20782190/) (Season 1) {display}
+- [Dune Prophecy](https://www.imdb.com/title/tt10466872/) (Season 1) {display}
 - [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
 - [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4) {display}
 - [Star Trek: Lower Decks](https://www.imdb.com/title/tt9184820/) (Season 5) {display}
