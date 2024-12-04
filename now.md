@@ -32,7 +32,7 @@
 <br>
 
 ### {circle-play} Consuming
-- [Pushing Ice](https://app.thestorygraph.com/books/0861867a-f910-4a90-8214-204b6157fd90) by Alastair Reynolds {book}
+- [Six Wakes](https://app.thestorygraph.com/books/2967c308-fbb4-495d-8918-127d2c9bdc14) by Mur Lafferty {book}
 - [English Teacher](https://www.imdb.com/title/tt20782190/) (Season 1) {display}
 - [Dune Prophecy](https://www.imdb.com/title/tt10466872/) (Season 1) {display}
 - [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
