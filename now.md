@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-12-03) Had a [bit of an outage](https://srsbsns.lol/post-mortem-on-the-srsbsns-runtimeterror-data-center-outage/) at my data center (the corner of the study at my house) {plug-circle-exclamation}
 - (2024-11-27) Deployed [Opengist](https://srsbsns.lol/opening-up-opengist/), and self-hosted open-source pastebin {clipboard}
 - (2024-10-26) Reached a [1500 day streak](https://goto.srsbsns.lol/@john/statuses/01JB5FZBZFJCVEQCZX8490SK35) on Duolingo {language}
 - (2024-10-20) Migrated my Fediverse presence to an [ActivityPub server running on a Raspberry Pi](https://srsbsns.lol/going-to-gotosocial/) {mastodon}
 - (2024-10-13) Looked back on [an awesome experience at Furnace Fest 2024](https://srsbsns.lol/the-end-of-an-era-furnace-fest-2024/) {music}
-- (2024-09-29) Began [publishing (selected) SilverBullet notes with Quartz](https://runtimeterror.dev/publish-silverbullet-notes-quartz/) over at [notes.runtimeterror.dev](https://notes.runtimeterror.dev) {gem}
 
 <br>
 
@@ -42,7 +42,6 @@
 - [Drag Race España](https://www.imdb.com/title/tt13606528/) (Season 4) {chess-queen}
 - [Drag Race Down Under](https://www.imdb.com/title/tt14192040/) (Season 4) {chess-queen}
 - [Canada's Drag Race](https://www.imdb.com/title/tt11382554/) (Season 5) {chess-queen}
-- [The Boulet Brothers' Dragula](https://www.imdb.com/title/tt6289132/) (Season 6) {chess-queen}
 - [Half-Life 2](https://store.steampowered.com/app/220/HalfLife_2/) {gamepad}
 - <span id="theme-song">Silence<script src="https://res.jbowdre.lol/js/theme-song.js?id=2aVjZUocjk96LELFbV5JvJjm14v&plain=true" defer></script></span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
