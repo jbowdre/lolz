@@ -33,7 +33,7 @@
 
 ### {circle-play} Consuming
 - [Six Wakes](https://app.thestorygraph.com/books/2967c308-fbb4-495d-8918-127d2c9bdc14) by Mur Lafferty {book}
-- [English Teacher](https://www.imdb.com/title/tt20782190/) (Season 1) {display}
+- [A Man on the Inside](https://www.imdb.com/title/tt26670955/) {display}
 - [Dune Prophecy](https://www.imdb.com/title/tt10466872/) (Season 1) {display}
 - [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
 - [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4) {display}
