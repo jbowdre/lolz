@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-12-15) Migrated my [homelab](https://runtimeterror.dev/homelab) workloads to a new [Docker Swarm cluster](https://srsbsns.lol/my-little-swarmy/) {docker}
 - (2024-12-09) A PR I'd submitted to add Docker support to Bearlytics got merged, and [feels pretty good](https://goto.srsbsns.lol/@john/statuses/01JENRV6ATRTJVDBEW2PPJBH8X) {code-merge}
 - (2024-12-03) Had a [bit of an outage](https://srsbsns.lol/post-mortem-on-the-srsbsns-runtimeterror-data-center-outage/) at my data center (the corner of the study at my house) {plug-circle-exclamation}
 - (2024-11-27) Deployed [Opengist](https://srsbsns.lol/opening-up-opengist/), and self-hosted open-source pastebin {clipboard}
 - (2024-10-26) Reached a [1500 day streak](https://goto.srsbsns.lol/@john/statuses/01JB5FZBZFJCVEQCZX8490SK35) on Duolingo {language}
-- (2024-10-20) Migrated my Fediverse presence to an [ActivityPub server running on a Raspberry Pi](https://srsbsns.lol/going-to-gotosocial/) {mastodon}
 
 <br>
 
@@ -33,7 +33,7 @@
 
 ### {circle-play} Consuming
 - [Six Wakes](https://app.thestorygraph.com/books/2967c308-fbb4-495d-8918-127d2c9bdc14) by Mur Lafferty {book}
-- [Unstable](https://www.imdb.com/title/tt19394168/) {display}
+- [UnREAL](https://www.imdb.com/title/tt3314218/) {display}
 - [Dune Prophecy](https://www.imdb.com/title/tt10466872/) (Season 1) {display}
 - [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
 - [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4) {display}
