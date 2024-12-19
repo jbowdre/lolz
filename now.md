@@ -38,7 +38,6 @@
 - [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
 - [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4) {display}
 - [Star Trek: Lower Decks](https://www.imdb.com/title/tt9184820/) (Season 5) {display}
-- [Drag Race España](https://www.imdb.com/title/tt13606528/) (Season 4) {chess-queen}
 - [Drag Race Down Under](https://www.imdb.com/title/tt14192040/) (Season 4) {chess-queen}
 - [Canada's Drag Race](https://www.imdb.com/title/tt11382554/) (Season 5) {chess-queen}
 - [Halo 2](https://store.steampowered.com/app/1064270/Halo_2_Anniversary/) {gamepad}
