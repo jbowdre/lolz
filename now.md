@@ -13,17 +13,17 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2024-12-22) Made some [changes to my software stack](https://srsbsns.lol/a-software-stack-shakeup/) {terminal}
 - (2024-12-15) Migrated my [homelab](https://runtimeterror.dev/homelab) workloads to a new [Docker Swarm cluster](https://srsbsns.lol/my-little-swarmy/) {docker}
 - (2024-12-09) A PR I'd submitted to add Docker support to Bearlytics got merged, and [feels pretty good](https://goto.srsbsns.lol/@john/statuses/01JENRV6ATRTJVDBEW2PPJBH8X) {code-merge}
 - (2024-12-03) Had a [bit of an outage](https://srsbsns.lol/post-mortem-on-the-srsbsns-runtimeterror-data-center-outage/) at my data center (the corner of the study at my house) {plug-circle-exclamation}
 - (2024-11-27) Deployed [Opengist](https://srsbsns.lol/opening-up-opengist/), and self-hosted open-source pastebin {clipboard}
-- (2024-10-26) Reached a [1500 day streak](https://goto.srsbsns.lol/@john/statuses/01JB5FZBZFJCVEQCZX8490SK35) on Duolingo {language}
 
 <br>
 
 ### {screwdriver-wrench} Tinkering
 - Wrenching on a 1974 VW Karmann Ghia {toolbox}
-- Fiddling with my [Nix dotfiles](https://github.com/jbowdre/dotfiles)
+- Fiddling (endlessly) with my [Nix dotfiles](https://github.com/jbowdre/dotfiles)
 - Configuring a 3-node [Zima Blade](https://www.zimaboard.com/blade/) [Nomad](https://www.nomadproject.io/) cluster {circle-nodes}
 - Using [Packer](https://github.com/jbowdre/packer-proxmox-templates/) to build VM templates on Proxmox {clone}
 - Experimenting with my [simple feed aggregator powered by GitHub Actions](https://github.com/chillfeed/chillfeed) {rss}
@@ -33,12 +33,10 @@
 
 ### {circle-play} Consuming
 - [Six Wakes](https://app.thestorygraph.com/books/2967c308-fbb4-495d-8918-127d2c9bdc14) by Mur Lafferty {book}
-- [UnREAL](https://www.imdb.com/title/tt3314218/) {display}
+- [UnREAL](https://www.imdb.com/title/tt3314218/) (Season 2) {display}
 - [Dune Prophecy](https://www.imdb.com/title/tt10466872/) (Season 1) {display}
 - [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
 - [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4) {display}
-- [Star Trek: Lower Decks](https://www.imdb.com/title/tt9184820/) (Season 5) {display}
-- [Drag Race Down Under](https://www.imdb.com/title/tt14192040/) (Season 4) {chess-queen}
 - [Canada's Drag Race](https://www.imdb.com/title/tt11382554/) (Season 5) {chess-queen}
 - [Halo 2](https://store.steampowered.com/app/1064270/Halo_2_Anniversary/) {gamepad}
 - <span id="theme-song">Silence<script src="https://res.jbowdre.lol/js/theme-song.js?id=2aVjZUocjk96LELFbV5JvJjm14v&plain=true" defer></script></span> {headphones}
@@ -56,17 +54,5 @@
 --- Plug ---
 
 (This is a [/now page](https://nownownow.com/about), where I share what's happening lately. If you have your own site, [you should totally make one](https://nownownow.com/about), too.)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
