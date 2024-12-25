@@ -32,7 +32,7 @@
 <br>
 
 ### {circle-play} Consuming
-- [Six Wakes](https://app.thestorygraph.com/books/2967c308-fbb4-495d-8918-127d2c9bdc14) by Mur Lafferty {book}
+- [I'm Starting to Worry About This Black Box of Doom](https://app.thestorygraph.com/books/f6dac4cb-8324-4407-babf-a0e8bd8c0ce6) by Jason Pargin {book}
 - [UnREAL](https://www.imdb.com/title/tt3314218/) (Season 2) {display}
 - [Dune Prophecy](https://www.imdb.com/title/tt10466872/) (Season 1) {display}
 - [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
