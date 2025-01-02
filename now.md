@@ -37,8 +37,8 @@
 - [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4) {display}
 - [Canada's Drag Race](https://www.imdb.com/title/tt11382554/) (Season 5) {chess-queen}
 - [Halo 2](https://store.steampowered.com/app/1064270/Halo_2_Anniversary/) {gamepad}
-- <span id="theme-song">Silence<script src="https://res.jbowdre.lol/js/theme-song.js?id=2aVjZUocjk96LELFbV5JvJjm14v&plain=true" defer></script></span> {headphones}
-  - [more recent faves](https://musicthread.app/thread/2aVjZUocjk96LELFbV5JvJjm14v) {music}
+- <span id="theme-song">Silence<script src="https://res.jbowdre.lol/js/theme-song.js?id=2r5Q8KmDQsdKGuLxtt1kK4gst8o&plain=true" defer></script></span> {headphones}
+  - [more recent faves](https://musicthread.app/thread/2r5Q8KmDQsdKGuLxtt1kK4gst8o) {music}
 
 <br>
 
