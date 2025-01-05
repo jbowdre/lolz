@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2025-01-05) Moved my GoToSocial instance [from a Raspberry Pi to a VM](https://srsbsns.lol/moving-gotosocial-from-raspi-to-vm/) {server}
 - (2025-01-01) Shared some notes on [managing DNS records with GitHub Actions and DNSControl](https://runtimeterror.dev/manage-dns-records-github-actions-dnscontrol/), and converted the site's feed from RSS to Atom along the way {blog}
 - (2024-12-22) Made some [changes to my software stack](https://srsbsns.lol/a-software-stack-shakeup/) {terminal}
 - (2024-12-15) Migrated my [homelab](https://runtimeterror.dev/homelab) workloads to a new [Docker Swarm cluster](https://srsbsns.lol/my-little-swarmy/) {docker}
 - (2024-12-09) A PR I'd submitted to add Docker support to Bearlytics got merged, and [feels pretty good](https://goto.srsbsns.lol/@john/statuses/01JENRV6ATRTJVDBEW2PPJBH8X) {code-merge}
-- (2024-12-03) Had a [bit of an outage](https://srsbsns.lol/post-mortem-on-the-srsbsns-runtimeterror-data-center-outage/) at my data center (the corner of the study at my house) {plug-circle-exclamation}
 
 <br>
 
@@ -32,7 +32,7 @@
 
 ### {circle-play} Consuming
 - [I'm Starting to Worry About This Black Box of Doom](https://app.thestorygraph.com/books/f6dac4cb-8324-4407-babf-a0e8bd8c0ce6) by Jason Pargin {book}
-- [UnREAL](https://www.imdb.com/title/tt3314218/) (Season 4) {display}
+- [The White Lotus](https://www.imdb.com/title/tt13406094/) (Season 1) {display}
 - [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
 - [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4) {display}
 - [Canada's Drag Race](https://www.imdb.com/title/tt11382554/) (Season 5) {chess-queen}
