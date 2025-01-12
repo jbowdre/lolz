@@ -32,7 +32,7 @@
 
 ### {circle-play} Consuming
 - [All Systems Red](https://app.thestorygraph.com/books/0885d5f1-edc2-435f-b17c-7e881829dbc6) by Martha Wells {book}
-- [The White Lotus](https://www.imdb.com/title/tt13406094/) (Season 2) {display}
+- [AP Bio](https://www.imdb.com/title/tt6461726/) (Season 1) {display}
 - [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
 - [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4) {display}
 - [Canada's Drag Race](https://www.imdb.com/title/tt11382554/) (Season 5) {chess-queen}
