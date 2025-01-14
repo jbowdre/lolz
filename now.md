@@ -25,7 +25,6 @@
 - Wrenching on a 1974 VW Karmann Ghia {toolbox}
 - Fiddling (endlessly) with my [Nix dotfiles](https://github.com/jbowdre/dotfiles)
 - Configuring a 3-node [Zima Blade](https://www.zimaboard.com/blade/) [Nomad](https://www.nomadproject.io/) cluster {circle-nodes}
-- Experimenting with my [simple feed aggregator powered by GitHub Actions](https://github.com/chillfeed/chillfeed) {rss}
 - Employing [Portainer](https://portainer.io) to wrangle my various Docker workloads, including on a 3-node Swarm cluster {docker}
 
 <br>
