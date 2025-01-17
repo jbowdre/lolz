@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2025-01-1) Deployed another GoToSocial server [just to get a cooler instance name](https://vim.wtf/@wq/statuses/01JHV6CHYZTF6KZFTJYE7RYN7Q) {mastodon}
 - (2025-01-10) Added a [brief weather report](https://srsbsns.lol/tempest-weather-station-data-in-my-fish-welcome-message/) to my terminal {cloud}
 - (2025-01-05) Moved my GoToSocial instance [from a Raspberry Pi to a VM](https://srsbsns.lol/moving-gotosocial-from-raspi-to-vm/) {server}
 - (2025-01-01) Shared some notes on [managing DNS records with GitHub Actions and DNSControl](https://runtimeterror.dev/manage-dns-records-github-actions-dnscontrol/), and converted the site's feed from RSS to Atom along the way {blog}
 - (2024-12-22) Made some [changes to my software stack](https://srsbsns.lol/a-software-stack-shakeup/) {terminal}
-- (2024-12-15) Migrated my [homelab](https://runtimeterror.dev/homelab) workloads to a new [Docker Swarm cluster](https://srsbsns.lol/my-little-swarmy/) {docker}
 
 <br>
 
