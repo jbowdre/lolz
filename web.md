@@ -2,7 +2,7 @@
 
 # John Bowdre
 
-| Pronouns: he/him
+| Pronouns: he/him/they
 | Occupation: platform architect
 | Location: huntsville, al
 
