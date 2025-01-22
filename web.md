@@ -34,15 +34,13 @@
 - [racing i do](https://www.youtube.com/playlist?list=PLwzr4uKY-x-EwCv-rWNGefdikuW6Oy9O_) {car}
 
 # /usr/local/bin
-- [/uses](https://srsbsns.lol/uses) {thumbs-up}
 - [/cycling](https://srsbsns.lol/cycling/) {person-biking}
-- [/autocross](https://srsbsns.lol/autocross/) {car-side}
+- [/autox](https://srsbsns.lol/autocross/) {car-side}
+- [/uses](https://srsbsns.lol/uses) {thumbs-up}
 
 # /dev/stdin
 - [simplex chat](https://url.jbowdre.lol/simplex-chat-invite) {message}
-- [matrix chat](https://matrix.to/#/@jbowdre:omg.lol) {matrix}
 - [signal chat](https://signal.me/#eu/lyHZbMnlM16O0w48j3rshYBofO0K-iXOt9LGwln7TS-fNKEHCrxH3La325q8IjRU) {signal-app}
-- [xmpp chat](https://conversations.im/i/jbowdre@omg.lol?omemo-sid-1374125881=a620f3c57733601a6646f6f13a71c86fc9be8dd4126fd158ef3e0a26beb0b434) {xmpp}
 - [e-mail](mailto:jbowdre@omg.lol) {fastmail}
   - PGP: {pgp-key}
 
