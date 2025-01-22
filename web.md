@@ -21,9 +21,9 @@
 - [srs bsns (lol)](https://srsbsns.lol) {pen-to-square}
 
 # /dev/net
-- [counter.social](https://counter.social/@john_b) {hashtag}
-- [statuslog](https://status.jbowdre.lol) {prami}
-- [fediverse](https://vim.wtf/@wq) {mastodon}
+- [fediverse](https://vim.wtf/@wq) {fediverse-alt}
+- [pixelfed](https://pixtagram.social/wq) {pixelfed}
+- [status](https://status.jbowdre.lol) {prami}
 - [/now](https://jbowdre.lol/now) {stopwatch}
 
 # /mnt/media
@@ -34,7 +34,9 @@
 - [racing i do](https://www.youtube.com/playlist?list=PLwzr4uKY-x-EwCv-rWNGefdikuW6Oy9O_) {car}
 
 # /usr/local/bin
-- [stuff i use](https://srsbsns.lol/uses) {thumbs-up}
+- [/uses](https://srsbsns.lol/uses) {thumbs-up}
+- [/cycling](https://srsbsns.lol/cycling/) {person-biking}
+- [/autocross](https://srsbsns.lol/autocross/) {car-side}
 
 # /dev/stdin
 - [simplex chat](https://url.jbowdre.lol/simplex-chat-invite) {message}
@@ -52,11 +54,4 @@
 - <span id="rainToday">developing...</span> {droplet-slash}
 - <span id="pressure">developing...</span> {arrow-right-long}
 - <i>as of <span id="time">recently</span></i> {clock}
-
-
-
-
-
-
-
 
