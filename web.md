@@ -41,6 +41,7 @@
 # /dev/stdin
 - [simplex chat](https://url.jbowdre.lol/simplex-chat-invite) {message}
 - [signal chat](https://signal.me/#eu/lyHZbMnlM16O0w48j3rshYBofO0K-iXOt9LGwln7TS-fNKEHCrxH3La325q8IjRU) {signal-app}
+- [delta chat](https://url.jbowdre.lol/delta) {message}
 - [e-mail](mailto:jbowdre@omg.lol) {fastmail}
   - PGP: {pgp-key}
 
