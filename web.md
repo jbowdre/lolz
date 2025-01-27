@@ -22,7 +22,6 @@
 
 # /dev/net
 - [fediverse](https://vim.wtf/@wq) {fediverse-alt}
-- [pixelfed](https://pixtagram.social/wq) {pixelfed}
 - [status](https://status.jbowdre.lol) {prami}
 - [/now](https://jbowdre.lol/now) {stopwatch}
 
