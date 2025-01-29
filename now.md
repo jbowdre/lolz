@@ -13,7 +13,7 @@
 <br>
 
 ### {medal} Recent Boasts
-- (2025-01-1) Deployed another GoToSocial server [just to get a cooler instance name](https://vim.wtf/@wq/statuses/01JHV6CHYZTF6KZFTJYE7RYN7Q) {mastodon}
+- (2025-01-17) Deployed another GoToSocial server [just to get a cooler instance name](https://vim.wtf/@wq/statuses/01JHV6CHYZTF6KZFTJYE7RYN7Q) {mastodon}
 - (2025-01-10) Added a [brief weather report](https://srsbsns.lol/tempest-weather-station-data-in-my-fish-welcome-message/) to my terminal {cloud}
 - (2025-01-05) Moved my GoToSocial instance [from a Raspberry Pi to a VM](https://srsbsns.lol/moving-gotosocial-from-raspi-to-vm/) {server}
 - (2025-01-01) Shared some notes on [managing DNS records with GitHub Actions and DNSControl](https://runtimeterror.dev/manage-dns-records-github-actions-dnscontrol/), and converted the site's feed from RSS to Atom along the way {blog}
@@ -31,13 +31,13 @@
 
 ### {circle-play} Consuming
 - [Children of Time](hhttps://app.thestorygraph.com/books/142bc3cb-3aac-49e5-8527-b3cc9675f158) by Adrian Tchaikovsky {book}
-- [The Expanse](https://wwe.imdb.com/title/tt3230854/) (Season 2) {display}
-- [AP Bio](https://www.imdb.com/title/tt6461726/) (Season 1) {display}
+- [The Expanse](https://wwe.imdb.com/title/tt3230854/) (Season 3) {display}
+- [AP Bio](https://www.imdb.com/title/tt6461726/) (Season 2) {display}
 - [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
 - [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4) {display}
 - [Canada's Drag Race](https://www.imdb.com/title/tt11382554/) (Season 5) {chess-queen}
 - [RuPaul's Drag Race](https://www.imdb.com/title/tt1353056/) (Season 17) {chess-queen}
-- [Halo 2](https://store.steampowered.com/app/1064270/Halo_2_Anniversary/) {gamepad}
+- [Halo 3](https://store.steampowered.com/app/1064271/Halo_3/) {gamepad}
 - <span id="theme-song">Silence<script src="https://res.jbowdre.lol/js/theme-song.js?id=2r5Q8KmDQsdKGuLxtt1kK4gst8o&plain=true" defer></script></span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2r5Q8KmDQsdKGuLxtt1kK4gst8o) {music}
 
