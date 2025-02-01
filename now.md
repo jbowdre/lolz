@@ -31,13 +31,14 @@
 
 ### {circle-play} Consuming
 - [Children of Time](hhttps://app.thestorygraph.com/books/142bc3cb-3aac-49e5-8527-b3cc9675f158) by Adrian Tchaikovsky {book}
-- [The Expanse](https://wwe.imdb.com/title/tt3230854/) (Season 3) {display}
+- [The Expanse](https://wwe.imdb.com/title/tt3230854/) (Season 4) {display}
+- [School Spirits](https://www.imdb.com/title/tt21057450/) (Season 2) {display}
 - [AP Bio](https://www.imdb.com/title/tt6461726/) (Season 2) {display}
 - [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
 - [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4) {display}
-- [Canada's Drag Race](https://www.imdb.com/title/tt11382554/) (Season 5) {chess-queen}
 - [RuPaul's Drag Race](https://www.imdb.com/title/tt1353056/) (Season 17) {chess-queen}
 - [Halo 3](https://store.steampowered.com/app/1064271/Halo_3/) {gamepad}
+- [No Man's Sky](https://store.steampowered.com/app/275850/No_Mans_Sky/) {gamepad}
 - <span id="theme-song">Silence<script src="https://res.jbowdre.lol/js/theme-song.js?id=2r5Q8KmDQsdKGuLxtt1kK4gst8o&plain=true" defer></script></span> {headphones}
   - [more recent faves](https://musicthread.app/thread/2r5Q8KmDQsdKGuLxtt1kK4gst8o) {music}
 
