@@ -30,8 +30,8 @@
 <br>
 
 ### {circle-play} Consuming
-- [Children of Time](hhttps://app.thestorygraph.com/books/142bc3cb-3aac-49e5-8527-b3cc9675f158) by Adrian Tchaikovsky {book}
-- [Ted Lasso](https://www.imdb.com/title/tt10986410/) (Season 1) {display}
+- [Picks & Shovels](https://app.thestorygraph.com/books/04e43367-8522-4b84-b02a-6453b44cbbcb) by Cory Doctorow {book}
+- [Ted Lasso](https://www.imdb.com/title/tt10986410/) (Season 2) {display}
 - [School Spirits](https://www.imdb.com/title/tt21057450/) (Season 2) {display}
 - [AP Bio](https://www.imdb.com/title/tt6461726/) (Season 2) {display}
 - [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
