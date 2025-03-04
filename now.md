@@ -13,11 +13,11 @@
 <br>
 
 ### {medal} Recent Boasts
+- (2025-03-04) [Had a blast instructing](https://www.srsbsns.lol/2025-tac-performance-driving-school/) at TAC's annual Performance Driving School {flag-checkered}
 - (2025-02-28) Tracking some of the projects and organizations [I support with recurring donations](https://www.srsbsns.lol/supporting/) {circle-dollar-to-slot}
 - (2025-02-16) Reflecting on some of my favorite technology [in a blog challenge response](https://www.srsbsns.lol/blog-question-challenge-2025-technology-edition/) {microchip}
 - (2025-02-14) Looking forward to instructing at [TAC's Performance Driving School](https://www.srsbsns.lol/great-news-for-drivers-in-north-alabama/) in a few weeks {car-side}
 - (2025-02-02) Switched from Tidal to Qobuz and [bought a few albums](https://www.srsbsns.lol/albums-i-purchased-this-week-electric-callboy-poppy-we-came-as-romans/) {music}
-- (2025-01-25) Change up [the fonts on my Bear Blog](https://www.srsbsns.lol/fiddling-with-fonts-and-feeling-fine/) {font}
 
 <br>
 
@@ -31,7 +31,7 @@
 
 ### {circle-play} Consuming
 - [Picks & Shovels](https://app.thestorygraph.com/books/04e43367-8522-4b84-b02a-6453b44cbbcb) by Cory Doctorow {book}
-- [Ted Lasso](https://www.imdb.com/title/tt10986410/) (Season 2) {display}
+- [Ted Lasso](https://www.imdb.com/title/tt10986410/) (Season 3) {display}
 - [Shoresy](https://www.imdb.com/title/tt18249282/) (Season 4) {display}
 - [School Spirits](https://www.imdb.com/title/tt21057450/) (Season 2) {display}
 - [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
@@ -52,7 +52,4 @@
 --- Plug ---
 
 (This is a [/now page](https://nownownow.com/about), where I share what's happening lately. If you have your own site, [you should totally make one](https://nownownow.com/about), too.)
-
-
-
 
