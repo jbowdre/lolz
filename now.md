@@ -30,9 +30,8 @@
 <br>
 
 ### {circle-play} Consuming
-- [Picks & Shovels](https://app.thestorygraph.com/books/04e43367-8522-4b84-b02a-6453b44cbbcb) by Cory Doctorow {book}
+- [On Tyranny](https://app.thestorygraph.com/books/e36e1a7c-90d5-4fca-92cc-20b225228db9) by Timothy Snyder {book}
 - [Ted Lasso](https://www.imdb.com/title/tt10986410/) (Season 3) {display}
-- [Shoresy](https://www.imdb.com/title/tt18249282/) (Season 4) {display}
 - [School Spirits](https://www.imdb.com/title/tt21057450/) (Season 2) {display}
 - [Ghosts](https://www.imdb.com/title/tt11379026/) (Season 4) {display}
 - [Abbott Elementary](https://www.imdb.com/title/tt14218830/) (Season 4) {display}
@@ -45,7 +44,7 @@
 <br>
 
 ### {brain} Studying
-- German with [Duolingo](https://www.duolingo.com/) (Section 4, Unit 26) {language}
+- German with [Duolingo](https://www.duolingo.com/) (Section 4, Unit 28) {language}
 
 <br>
 
