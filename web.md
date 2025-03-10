@@ -1,6 +1,6 @@
 {profile-picture}
 
-# John Bowdre
+# John Wq
 
 | Pronouns: he/him/they
 | Occupation: platform architect

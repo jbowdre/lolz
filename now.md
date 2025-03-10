@@ -1,6 +1,6 @@
 {profile-picture}
 
-# [John Bowdre](https://jbowdre.lol)
+# [John Wq](https://jbowdre.lol)
 
 ### What I'm up to [/now {circle-question}](https://nownownow.com/about)
 
